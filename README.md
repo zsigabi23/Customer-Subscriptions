@@ -1,8 +1,11 @@
 **Customer Subscription Analytics Project**
+
 **Project Overview**
 
 This project analyzes customer subscription data to understand churn behavior, revenue performance, and engagement patterns.
+
 The goal was to move beyond basic descriptive reporting and identify early indicators of churn risk, revenue concentration, and customer quality across acquisition channels, plans, and regions.
+
 Using SQL for data validation and transformation, and Power BI for visualization, this project demonstrates an end-to-end analytics workflow from raw data to actionable business insights.
 
 ---
@@ -10,11 +13,17 @@ Using SQL for data validation and transformation, and Power BI for visualization
 **Business Problem**
 
 Subscription-based businesses rely heavily on customer retention and recurring revenue stability.
+
 Key business questions addressed in this project:
+
 What is the current churn rate?
+
 Which subscription plans are most profitable and most unstable?
+
 Are discounted customers higher risk?
+
 What behaviors signal potential churn?
+
 Which acquisition channels bring high-quality customers?
 
 ---
