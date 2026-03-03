@@ -145,15 +145,7 @@ The interactive Power BI dashboard includes:
 - Geographic Revenue Distribution (Map)
 - Engagement & Satisfaction Impact Analysis
 - High-Risk Customer Segmentation
-- Cohort-Based Trend Analysis
-
-Interactive slicers allow filtering by:
-
-- Plan
-- Country
-- Acquisition Channel
-- Device
-- Signup Month
+- Cohort-Based Trend Analysish
 
 ---
 
