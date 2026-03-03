@@ -1,0 +1,1201 @@
+customer_id,signup_date,country,device,acquisition_channel,plan,gross_mrr,discount_rate,net_mrr,monthly_sessions,support_tickets_last_90d,nps_score,is_churned,churn_date
+C00001,2024-03-09,India,Desktop,Referral,Basic,99.0,0.093,89.79,12,3,6,1,2025-03-20
+C00002,2025-08-12,Germany,Mobile,Organic,Basic,99.0,0.083,90.78,21,0,6,1,2026-01-12
+C00003,2025-05-13,South Africa,Mobile,Paid Search,Standard,179.0,0.136,154.66,20,1,6,0,
+C00004,2024-11-30,Nigeria,Mobile,Organic,Standard,179.0,0.071,166.29,19,2,7,0,
+C00005,2024-11-25,South Africa,Mobile,Organic,Basic,99.0,0.088,90.29,39,1,9,0,
+C00006,2025-10-16,Nigeria,Mobile,Partner,Basic,99.0,0.156,83.56,6,1,10,0,
+C00007,2024-03-06,Kenya,Desktop,Paid Social,Standard,179.0,0.129,155.91,29,1,5,0,
+C00008,2025-06-15,United Kingdom,Mobile,Partner,Premium,299.0,0.197,240.1,17,1,7,0,
+C00009,2024-06-02,Kenya,Mobile,Paid Search,Standard,179.0,0.165,149.46,22,2,7,1,2024-08-06
+C00010,2024-03-12,USA,Desktop,Paid Search,Basic,99.0,0.15,84.15,39,1,10,0,
+C00011,2025-02-05,South Africa,Mobile,Paid Search,Basic,99.0,0.204,78.8,10,1,9,1,2026-02-22
+C00012,2026-01-13,South Africa,Desktop,Organic,Standard,179.0,0.083,164.14,15,1,4,1,2027-03-11
+C00013,2025-07-14,South Africa,Mobile,Organic,Basic,99.0,0.094,89.69,18,2,8,1,2026-03-03
+C00014,2025-08-02,Kenya,Mobile,Paid Search,Standard,179.0,0.179,146.96,14,1,7,0,
+C00015,2025-06-30,Nigeria,Mobile,Organic,Standard,179.0,0.033,173.09,28,0,9,0,
+C00016,2025-08-21,Nigeria,Tablet,Partner,Basic,99.0,0.049,94.15,14,0,9,0,
+C00017,2025-01-26,Germany,Desktop,Organic,Basic,99.0,0.028,96.23,23,2,5,0,
+C00018,2024-04-07,South Africa,Mobile,Organic,Basic,99.0,0.084,90.68,7,0,8,0,
+C00019,2025-10-01,United Kingdom,Mobile,Referral,Premium,299.0,0.066,279.27,10,3,7,1,2027-02-17
+C00020,2024-12-09,Germany,Desktop,Organic,Standard,179.0,0.097,161.64,19,2,7,0,
+C00021,2025-01-16,South Africa,Desktop,Referral,Basic,99.0,0.034,95.63,5,1,7,0,
+C00022,2024-10-09,South Africa,Mobile,Paid Social,Premium,299.0,0.026,291.23,36,1,4,0,
+C00023,2024-05-19,South Africa,Desktop,Organic,Standard,179.0,0.079,164.86,9,4,6,1,2024-10-20
+C00024,2025-12-07,South Africa,Desktop,Paid Social,Standard,179.0,0.08,164.68,13,1,6,1,2027-02-08
+C00025,2025-08-18,India,Desktop,Paid Social,Premium,299.0,0.048,284.65,27,0,6,0,
+C00026,2025-05-05,USA,Mobile,Paid Social,Basic,99.0,0.247,74.55,13,1,5,1,2026-09-21
+C00027,2024-11-02,Nigeria,Mobile,Referral,Basic,99.0,0.001,98.9,6,0,6,1,2025-11-28
+C00028,2025-09-18,South Africa,Tablet,Paid Social,Standard,179.0,0.056,168.98,37,0,5,1,2026-08-17
+C00029,2025-02-19,United Kingdom,Mobile,Paid Social,Basic,99.0,0.049,94.15,10,1,6,1,2025-08-22
+C00030,2024-12-03,Germany,Mobile,Organic,Standard,179.0,0.065,167.36,19,2,3,1,2024-12-12
+C00031,2024-12-09,South Africa,Mobile,Paid Social,Basic,99.0,0.151,84.05,16,1,10,0,
+C00032,2024-06-22,India,Mobile,Partner,Basic,99.0,0.195,79.69,24,0,7,0,
+C00033,2024-03-11,South Africa,Desktop,Paid Social,Basic,99.0,0.091,89.99,22,0,5,0,
+C00034,2025-02-26,South Africa,Mobile,Paid Social,Basic,99.0,0.156,83.56,11,0,1,1,2025-11-20
+C00035,2025-11-07,South Africa,Desktop,Paid Search,Basic,99.0,0.121,87.02,15,0,8,1,2026-12-17
+C00036,2024-02-18,South Africa,Mobile,Paid Social,Basic,99.0,0.212,78.01,16,1,7,1,2025-07-03
+C00037,2025-10-16,USA,Mobile,Partner,Premium,299.0,0.142,256.54,30,0,8,0,
+C00038,2025-09-22,South Africa,Mobile,Organic,Basic,99.0,0.031,95.93,9,3,7,1,2026-12-21
+C00039,2024-07-29,South Africa,Desktop,Organic,Basic,99.0,0.032,95.83,34,3,8,0,
+C00040,2025-04-26,South Africa,Mobile,Paid Search,Basic,99.0,0.205,78.7,12,1,8,0,
+C00041,2024-05-05,South Africa,Mobile,Paid Search,Basic,99.0,0.116,87.52,18,2,5,1,2025-01-05
+C00042,2025-07-31,South Africa,Desktop,Paid Search,Basic,99.0,0.247,74.55,9,5,4,1,2026-01-20
+C00043,2025-06-17,South Africa,Mobile,Organic,Standard,179.0,0.043,171.3,11,1,8,0,
+C00044,2024-09-27,United Kingdom,Mobile,Paid Search,Basic,99.0,0.049,94.15,11,1,8,1,2025-02-05
+C00045,2024-02-21,South Africa,Mobile,Paid Social,Premium,299.0,0.197,240.1,16,1,6,1,2024-09-26
+C00046,2026-01-09,India,Desktop,Paid Social,Premium,299.0,0.15,254.15,21,0,10,0,
+C00047,2024-12-05,South Africa,Mobile,Paid Social,Basic,99.0,0.134,85.73,10,3,6,1,2026-01-23
+C00048,2025-11-11,Germany,Mobile,Paid Social,Basic,99.0,0.128,86.33,24,0,7,1,2026-10-17
+C00049,2025-05-31,India,Mobile,Paid Social,Basic,99.0,0.213,77.91,12,2,10,0,
+C00050,2025-08-16,South Africa,Mobile,Referral,Standard,179.0,0.097,161.64,14,1,9,1,2025-12-14
+C00051,2025-08-02,South Africa,Mobile,Paid Social,Basic,99.0,0.134,85.73,15,1,9,1,2026-05-20
+C00052,2024-05-28,USA,Mobile,Paid Search,Premium,299.0,0.012,295.41,32,5,4,1,2025-03-08
+C00053,2024-10-04,Kenya,Mobile,Paid Social,Standard,179.0,0.112,158.95,23,3,9,1,2025-11-26
+C00054,2024-12-21,United Kingdom,Mobile,Organic,Premium,299.0,0.089,272.39,23,1,7,0,
+C00055,2025-01-14,South Africa,Desktop,Organic,Standard,179.0,0.066,167.19,10,3,6,0,
+C00056,2024-02-03,South Africa,Mobile,Paid Search,Premium,299.0,0.013,295.11,15,0,3,0,
+C00057,2025-02-20,Kenya,Mobile,Referral,Basic,99.0,0.092,89.89,8,0,8,0,
+C00058,2024-04-27,USA,Desktop,Paid Social,Basic,99.0,0.207,78.51,28,1,4,1,2024-09-03
+C00059,2025-07-20,South Africa,Desktop,Organic,Basic,99.0,0.066,92.47,22,5,6,1,2025-08-14
+C00060,2025-06-04,India,Desktop,Paid Social,Premium,299.0,0.006,297.21,17,2,5,0,
+C00061,2025-12-03,United Kingdom,Mobile,Organic,Standard,179.0,0.065,167.36,16,0,9,1,2026-06-19
+C00062,2025-07-21,South Africa,Mobile,Paid Social,Premium,299.0,0.014,294.81,17,2,8,0,
+C00063,2024-10-06,South Africa,Mobile,Referral,Basic,99.0,0.039,95.14,11,0,10,0,
+C00064,2026-01-07,South Africa,Mobile,Paid Social,Premium,299.0,0.157,252.06,28,3,3,1,2026-07-22
+C00065,2024-11-09,South Africa,Mobile,Paid Social,Standard,179.0,0.228,138.19,19,0,9,1,2025-01-11
+C00066,2024-09-05,United Kingdom,Mobile,Organic,Standard,179.0,0.036,172.56,38,4,2,1,2026-01-02
+C00067,2025-11-21,South Africa,Mobile,Paid Search,Premium,299.0,0.215,234.72,34,0,8,0,
+C00068,2024-10-09,South Africa,Mobile,Referral,Basic,99.0,0.08,91.08,28,2,5,1,2025-11-11
+C00069,2024-02-28,Germany,Mobile,Paid Social,Basic,99.0,0.005,98.5,23,2,5,1,2025-03-06
+C00070,2024-12-23,Nigeria,Mobile,Paid Search,Standard,179.0,0.06,168.26,18,1,5,1,2025-12-02
+C00071,2025-08-29,Kenya,Desktop,Organic,Basic,99.0,0.028,96.23,23,0,6,0,
+C00072,2024-05-24,Nigeria,Desktop,Organic,Basic,99.0,0.023,96.72,15,0,5,0,
+C00073,2024-12-18,South Africa,Mobile,Organic,Basic,99.0,0.079,91.18,31,0,6,0,
+C00074,2024-04-09,United Kingdom,Mobile,Organic,Basic,99.0,0.045,94.54,21,0,6,1,2025-04-30
+C00075,2025-06-07,South Africa,Mobile,Organic,Premium,299.0,0.028,290.63,26,2,8,1,2026-06-28
+C00076,2024-12-28,South Africa,Mobile,Partner,Standard,179.0,0.185,145.88,22,0,8,0,
+C00077,2024-09-08,South Africa,Desktop,Paid Search,Basic,99.0,0.18,81.18,32,2,8,1,2025-10-30
+C00078,2024-06-21,Nigeria,Mobile,Organic,Basic,99.0,0.017,97.32,7,2,3,1,2025-01-09
+C00079,2025-03-06,Nigeria,Mobile,Organic,Basic,99.0,0.083,90.78,33,1,6,0,
+C00080,2025-05-25,South Africa,Mobile,Organic,Standard,179.0,0.055,169.16,20,2,7,1,2026-09-09
+C00081,2025-12-17,India,Mobile,Referral,Premium,299.0,0.077,275.98,13,1,7,1,2026-04-23
+C00082,2024-11-29,India,Mobile,Paid Search,Premium,299.0,0.228,230.83,18,2,6,0,
+C00083,2024-05-02,South Africa,Mobile,Referral,Basic,99.0,0.094,89.69,5,3,8,0,
+C00084,2025-09-26,Germany,Tablet,Referral,Basic,99.0,0.006,98.41,23,4,4,1,2026-01-30
+C00085,2025-04-24,South Africa,Mobile,Organic,Standard,179.0,0.08,164.68,13,2,5,1,2026-07-15
+C00086,2025-06-17,Brazil,Mobile,Paid Social,Standard,179.0,0.047,170.59,22,1,8,0,
+C00087,2024-03-15,South Africa,Mobile,Partner,Standard,179.0,0.092,162.53,30,4,5,1,2024-03-24
+C00088,2024-08-26,South Africa,Mobile,Paid Search,Standard,179.0,0.067,167.01,16,1,5,1,2026-01-03
+C00089,2025-08-08,South Africa,Mobile,Organic,Standard,179.0,0.04,171.84,19,0,6,0,
+C00090,2025-09-26,South Africa,Mobile,Partner,Basic,99.0,0.036,95.44,8,1,5,0,
+C00091,2024-11-27,Germany,Desktop,Referral,Basic,99.0,0.061,92.96,15,3,6,0,
+C00092,2025-09-05,Kenya,Mobile,Paid Search,Basic,99.0,0.246,74.65,39,2,8,1,2026-06-11
+C00093,2025-10-03,South Africa,Mobile,Paid Search,Basic,99.0,0.172,81.97,24,1,6,1,2025-10-25
+C00094,2024-10-22,Kenya,Mobile,Organic,Basic,99.0,0.091,89.99,16,1,9,0,
+C00095,2025-11-15,USA,Mobile,Referral,Standard,179.0,0.056,168.98,16,0,8,0,
+C00096,2024-08-07,India,Mobile,Paid Search,Basic,99.0,0.161,83.06,18,3,4,1,2025-08-08
+C00097,2024-07-01,Kenya,Desktop,Organic,Basic,99.0,0.002,98.8,19,1,4,0,
+C00098,2025-06-04,South Africa,Mobile,Paid Social,Standard,179.0,0.165,149.46,18,3,3,1,2026-04-20
+C00099,2025-04-30,South Africa,Mobile,Partner,Standard,179.0,0.22,139.62,25,1,6,0,
+C00100,2024-04-16,USA,Desktop,Referral,Basic,99.0,0.06,93.06,10,2,6,0,
+C00101,2025-09-26,Germany,Mobile,Organic,Premium,299.0,0.068,278.67,16,0,9,0,
+C00102,2024-06-01,Nigeria,Mobile,Organic,Premium,299.0,0.028,290.63,27,0,9,0,
+C00103,2025-09-05,USA,Mobile,Partner,Standard,179.0,0.018,175.78,12,0,10,0,
+C00104,2024-01-06,South Africa,Desktop,Partner,Standard,179.0,0.197,143.74,27,0,5,1,2024-10-07
+C00105,2025-08-30,United Kingdom,Mobile,Paid Search,Basic,99.0,0.032,95.83,18,1,9,1,2026-03-03
+C00106,2025-08-22,South Africa,Desktop,Paid Social,Premium,299.0,0.099,269.4,9,1,10,0,
+C00107,2025-08-17,South Africa,Desktop,Paid Search,Basic,99.0,0.097,89.4,19,0,5,1,2026-11-04
+C00108,2025-05-21,Kenya,Desktop,Paid Search,Premium,299.0,0.07,278.07,11,1,8,0,
+C00109,2024-12-25,South Africa,Tablet,Organic,Standard,179.0,0.05,170.05,27,0,8,1,2025-06-03
+C00110,2025-06-21,USA,Desktop,Organic,Basic,99.0,0.096,89.5,16,1,7,0,
+C00111,2024-07-30,South Africa,Desktop,Organic,Basic,99.0,0.039,95.14,33,0,6,1,2025-06-04
+C00112,2025-08-17,India,Desktop,Referral,Standard,179.0,0.056,168.98,30,1,6,0,
+C00113,2025-02-27,Germany,Desktop,Organic,Standard,179.0,0.093,162.35,13,0,3,0,
+C00114,2024-12-15,United Kingdom,Desktop,Organic,Basic,99.0,0.016,97.42,2,1,6,1,2025-02-18
+C00115,2025-01-20,USA,Desktop,Paid Search,Standard,179.0,0.115,158.42,15,0,6,0,
+C00116,2025-03-09,South Africa,Mobile,Organic,Premium,299.0,0.011,295.71,14,1,4,1,2025-12-22
+C00117,2024-01-29,South Africa,Desktop,Organic,Standard,179.0,0.062,167.9,36,0,7,1,2025-05-04
+C00118,2024-04-16,South Africa,Mobile,Paid Search,Standard,179.0,0.009,177.39,21,1,3,1,2025-07-11
+C00119,2024-07-06,South Africa,Desktop,Organic,Basic,99.0,0.097,89.4,25,1,9,0,
+C00120,2024-03-28,USA,Mobile,Paid Social,Standard,179.0,0.233,137.29,19,2,7,1,2025-03-18
+C00121,2024-11-30,Kenya,Desktop,Referral,Basic,99.0,0.014,97.61,17,2,5,1,2025-01-19
+C00122,2025-05-24,South Africa,Desktop,Organic,Premium,299.0,0.083,274.18,24,0,7,0,
+C00123,2025-05-13,South Africa,Tablet,Referral,Basic,99.0,0.082,90.88,27,2,4,1,2025-11-11
+C00124,2024-12-24,Kenya,Mobile,Referral,Standard,179.0,0.069,166.65,23,2,7,1,2025-08-18
+C00125,2025-10-13,Germany,Desktop,Referral,Basic,99.0,0.075,91.58,10,0,8,0,
+C00126,2025-03-06,South Africa,Desktop,Paid Social,Basic,99.0,0.107,88.41,31,1,6,1,2025-10-16
+C00127,2024-03-01,India,Desktop,Paid Social,Standard,179.0,0.053,169.51,19,3,6,1,2025-04-26
+C00128,2025-08-05,United Kingdom,Desktop,Paid Social,Standard,179.0,0.221,139.44,17,2,6,0,
+C00129,2025-03-13,India,Mobile,Paid Social,Standard,179.0,0.09,162.89,3,0,4,0,
+C00130,2025-04-28,South Africa,Mobile,Organic,Premium,299.0,0.093,271.19,29,1,8,1,2026-03-28
+C00131,2025-03-06,United Kingdom,Mobile,Partner,Premium,299.0,0.097,270.0,25,1,7,1,2025-08-12
+C00132,2025-02-25,South Africa,Tablet,Paid Social,Premium,299.0,0.225,231.72,25,2,5,1,2026-04-05
+C00133,2024-03-10,South Africa,Mobile,Referral,Basic,99.0,0.011,97.91,15,1,8,0,
+C00134,2025-03-02,Germany,Desktop,Organic,Standard,179.0,0.095,162.0,16,1,8,1,2025-12-08
+C00135,2025-08-28,United Kingdom,Desktop,Organic,Premium,299.0,0.011,295.71,21,2,8,1,2025-11-13
+C00136,2024-08-19,South Africa,Mobile,Paid Search,Basic,99.0,0.225,76.73,22,1,5,1,2024-10-26
+C00137,2025-04-04,India,Mobile,Paid Search,Basic,99.0,0.137,85.44,23,1,3,1,2026-01-30
+C00138,2024-01-24,South Africa,Mobile,Paid Search,Premium,299.0,0.071,277.77,22,1,4,1,2024-05-05
+C00139,2024-09-21,Nigeria,Desktop,Organic,Standard,179.0,0.031,173.45,29,1,5,1,2026-02-21
+C00140,2024-11-28,Brazil,Mobile,Organic,Standard,179.0,0.097,161.64,20,0,10,0,
+C00141,2026-01-18,Nigeria,Mobile,Paid Search,Premium,299.0,0.079,275.38,20,0,6,0,
+C00142,2024-06-12,India,Desktop,Organic,Standard,179.0,0.05,170.05,23,1,6,0,
+C00143,2024-07-29,Nigeria,Mobile,Partner,Basic,99.0,0.085,90.58,7,0,6,0,
+C00144,2024-11-07,India,Desktop,Organic,Basic,99.0,0.055,93.56,20,3,4,1,2024-12-14
+C00145,2026-01-26,United Kingdom,Mobile,Organic,Basic,99.0,0.074,91.67,6,0,7,0,
+C00146,2025-10-12,Germany,Mobile,Organic,Basic,99.0,0.066,92.47,10,0,5,0,
+C00147,2024-01-27,South Africa,Mobile,Paid Search,Standard,179.0,0.009,177.39,5,0,9,0,
+C00148,2024-06-27,Germany,Mobile,Paid Search,Premium,299.0,0.039,287.34,23,2,7,0,
+C00149,2025-09-18,South Africa,Mobile,Paid Social,Basic,99.0,0.238,75.44,31,2,10,1,2026-06-06
+C00150,2024-02-14,Brazil,Desktop,Partner,Basic,99.0,0.144,84.74,17,1,4,1,2024-08-15
+C00151,2025-10-14,South Africa,Mobile,Organic,Premium,299.0,0.079,275.38,29,0,10,0,
+C00152,2024-08-02,South Africa,Mobile,Paid Social,Basic,99.0,0.096,89.5,37,1,8,1,2024-09-30
+C00153,2025-11-30,India,Mobile,Organic,Standard,179.0,0.068,166.83,24,0,6,0,
+C00154,2024-08-11,South Africa,Mobile,Organic,Standard,179.0,0.074,165.75,15,1,5,1,2024-09-29
+C00155,2024-11-26,South Africa,Desktop,Paid Search,Standard,179.0,0.069,166.65,16,0,4,1,2025-01-06
+C00156,2025-05-19,Germany,Mobile,Organic,Basic,99.0,0.087,90.39,18,0,6,0,
+C00157,2024-04-06,South Africa,Tablet,Paid Social,Standard,179.0,0.12,157.52,16,5,6,0,
+C00158,2025-02-28,South Africa,Mobile,Paid Social,Basic,99.0,0.193,79.89,14,0,7,0,
+C00159,2025-01-19,Kenya,Mobile,Paid Social,Standard,179.0,0.224,138.9,29,0,3,1,2025-02-04
+C00160,2025-08-20,South Africa,Mobile,Paid Search,Basic,99.0,0.206,78.61,26,0,10,0,
+C00161,2026-01-29,South Africa,Mobile,Paid Social,Standard,179.0,0.046,170.77,8,1,7,0,
+C00162,2025-05-21,South Africa,Desktop,Paid Search,Standard,179.0,0.023,174.88,14,0,7,0,
+C00163,2024-11-07,South Africa,Mobile,Organic,Basic,99.0,0.09,90.09,14,1,6,0,
+C00164,2024-11-05,South Africa,Mobile,Organic,Basic,99.0,0.046,94.45,23,1,5,1,2026-02-06
+C00165,2024-11-14,South Africa,Desktop,Paid Social,Basic,99.0,0.228,76.43,27,0,5,1,2025-05-16
+C00166,2025-09-12,United Kingdom,Desktop,Partner,Basic,99.0,0.231,76.13,40,1,7,0,
+C00167,2024-09-01,United Kingdom,Desktop,Organic,Basic,99.0,0.063,92.76,14,0,7,0,
+C00168,2024-05-07,South Africa,Tablet,Paid Search,Premium,299.0,0.21,236.21,21,0,9,0,
+C00169,2024-09-11,South Africa,Desktop,Paid Social,Basic,99.0,0.134,85.73,23,2,6,1,2026-01-23
+C00170,2024-01-18,USA,Desktop,Referral,Premium,299.0,0.04,287.04,19,0,8,0,
+C00171,2024-03-21,Nigeria,Desktop,Paid Search,Premium,299.0,0.137,258.04,23,2,7,0,
+C00172,2024-03-09,South Africa,Mobile,Paid Social,Basic,99.0,0.036,95.44,15,0,8,0,
+C00173,2025-08-10,Kenya,Desktop,Paid Social,Standard,179.0,0.02,175.42,3,0,7,0,
+C00174,2025-07-04,South Africa,Mobile,Referral,Premium,299.0,0.026,291.23,25,1,9,0,
+C00175,2025-06-14,India,Desktop,Organic,Standard,179.0,0.062,167.9,20,3,7,0,
+C00176,2024-12-17,USA,Tablet,Partner,Basic,99.0,0.088,90.29,28,3,5,1,2025-06-19
+C00177,2025-06-30,USA,Mobile,Organic,Basic,99.0,0.058,93.26,18,3,5,1,2026-10-10
+C00178,2024-05-02,South Africa,Desktop,Referral,Basic,99.0,0.036,95.44,8,1,7,0,
+C00179,2025-11-17,South Africa,Desktop,Organic,Standard,179.0,0.053,169.51,19,2,7,0,
+C00180,2025-01-16,South Africa,Mobile,Organic,Premium,299.0,0.0,299.0,7,0,7,0,
+C00181,2025-12-15,South Africa,Mobile,Organic,Premium,299.0,0.085,273.59,14,1,5,1,2026-06-06
+C00182,2024-04-26,South Africa,Desktop,Paid Search,Basic,99.0,0.197,79.5,23,2,9,0,
+C00183,2025-01-13,United Kingdom,Tablet,Organic,Standard,179.0,0.014,176.49,19,0,9,0,
+C00184,2025-06-14,South Africa,Mobile,Organic,Basic,99.0,0.044,94.64,25,3,8,1,2025-11-24
+C00185,2025-01-12,USA,Mobile,Paid Search,Premium,299.0,0.009,296.31,8,0,6,0,
+C00186,2024-12-05,South Africa,Desktop,Paid Search,Basic,99.0,0.056,93.46,16,0,8,0,
+C00187,2024-05-06,South Africa,Mobile,Referral,Premium,299.0,0.052,283.45,20,0,4,0,
+C00188,2024-10-17,India,Mobile,Referral,Premium,299.0,0.004,297.8,32,1,7,1,2025-02-11
+C00189,2024-06-30,Germany,Mobile,Paid Social,Basic,99.0,0.054,93.65,23,1,3,1,2025-05-06
+C00190,2024-08-17,South Africa,Mobile,Organic,Basic,99.0,0.046,94.45,23,0,4,1,2025-07-08
+C00191,2025-06-04,Nigeria,Mobile,Organic,Premium,299.0,0.008,296.61,36,0,6,1,2026-05-12
+C00192,2025-04-25,South Africa,Desktop,Referral,Basic,99.0,0.077,91.38,15,1,5,1,2025-05-14
+C00193,2025-04-07,South Africa,Desktop,Organic,Standard,179.0,0.066,167.19,32,0,6,0,
+C00194,2024-10-02,Kenya,Desktop,Paid Search,Premium,299.0,0.08,275.08,16,1,5,1,2025-12-21
+C00195,2026-01-01,South Africa,Mobile,Partner,Standard,179.0,0.25,134.25,12,1,9,0,
+C00196,2024-03-07,United Kingdom,Mobile,Partner,Basic,99.0,0.192,79.99,24,0,6,0,
+C00197,2024-09-18,South Africa,Mobile,Paid Search,Basic,99.0,0.134,85.73,6,0,6,1,2025-03-09
+C00198,2024-03-30,United Kingdom,Mobile,Paid Social,Basic,99.0,0.064,92.66,23,2,5,1,2024-07-05
+C00199,2024-09-15,India,Mobile,Paid Search,Premium,299.0,0.08,275.08,25,1,9,0,
+C00200,2026-01-02,South Africa,Mobile,Paid Social,Basic,99.0,0.129,86.23,27,3,7,1,2026-07-06
+C00201,2024-10-06,South Africa,Mobile,Organic,Basic,99.0,0.066,92.47,18,0,3,1,2026-01-04
+C00202,2025-11-23,South Africa,Mobile,Organic,Basic,99.0,0.042,94.84,18,0,9,0,
+C00203,2025-01-12,India,Desktop,Paid Social,Premium,299.0,0.24,227.24,28,0,5,1,2025-06-13
+C00204,2025-06-17,United Kingdom,Desktop,Organic,Basic,99.0,0.075,91.58,13,2,6,1,2025-07-25
+C00205,2024-12-14,Germany,Desktop,Paid Social,Premium,299.0,0.147,255.05,18,1,4,1,2025-10-05
+C00206,2024-07-21,South Africa,Desktop,Organic,Standard,179.0,0.016,176.14,25,0,8,0,
+C00207,2025-08-05,South Africa,Mobile,Referral,Premium,299.0,0.015,294.52,24,4,10,1,2026-09-22
+C00208,2026-01-08,Nigeria,Mobile,Referral,Premium,299.0,0.073,277.17,21,1,7,0,
+C00209,2024-07-19,South Africa,Mobile,Paid Search,Premium,299.0,0.024,291.82,23,0,6,0,
+C00210,2025-08-16,Germany,Mobile,Referral,Premium,299.0,0.007,296.91,37,0,7,0,
+C00211,2024-07-17,South Africa,Mobile,Organic,Basic,99.0,0.012,97.81,14,2,3,1,2025-03-05
+C00212,2025-08-24,South Africa,Mobile,Paid Search,Standard,179.0,0.209,141.59,17,0,9,1,2026-11-15
+C00213,2024-12-08,Kenya,Mobile,Organic,Standard,179.0,0.057,168.8,7,1,8,0,
+C00214,2025-07-15,Kenya,Mobile,Referral,Standard,179.0,0.069,166.65,21,2,5,0,
+C00215,2024-07-26,Nigeria,Desktop,Referral,Premium,299.0,0.018,293.62,29,0,4,1,2025-12-25
+C00216,2024-03-01,South Africa,Desktop,Referral,Premium,299.0,0.073,277.17,31,2,7,0,
+C00217,2024-03-14,USA,Desktop,Referral,Standard,179.0,0.094,162.17,22,1,9,0,
+C00218,2024-12-06,India,Desktop,Partner,Standard,179.0,0.049,170.23,29,1,4,1,2025-04-23
+C00219,2025-11-18,USA,Mobile,Organic,Standard,179.0,0.02,175.42,27,1,9,0,
+C00220,2024-04-07,United Kingdom,Mobile,Partner,Basic,99.0,0.124,86.72,27,0,6,1,2025-03-24
+C00221,2024-12-13,United Kingdom,Desktop,Paid Search,Basic,99.0,0.187,80.49,26,1,4,1,2026-03-28
+C00222,2025-06-20,Nigeria,Mobile,Paid Search,Basic,99.0,0.047,94.35,31,1,5,1,2025-11-10
+C00223,2024-06-03,South Africa,Mobile,Paid Search,Basic,99.0,0.248,74.45,17,4,8,1,2025-07-19
+C00224,2025-07-03,South Africa,Mobile,Organic,Basic,99.0,0.091,89.99,7,2,3,1,2026-03-08
+C00225,2024-08-21,Nigeria,Desktop,Organic,Standard,179.0,0.041,171.66,26,1,6,0,
+C00226,2025-09-08,South Africa,Desktop,Organic,Basic,99.0,0.086,90.49,24,1,8,1,2025-12-11
+C00227,2025-03-17,South Africa,Mobile,Organic,Premium,299.0,0.051,283.75,37,0,8,0,
+C00228,2025-02-20,India,Desktop,Paid Search,Standard,179.0,0.162,150.0,31,1,6,0,
+C00229,2024-05-14,South Africa,Mobile,Referral,Basic,99.0,0.001,98.9,34,2,9,0,
+C00230,2024-12-18,Kenya,Mobile,Paid Social,Basic,99.0,0.034,95.63,23,0,8,1,2025-08-01
+C00231,2025-10-14,United Kingdom,Mobile,Paid Search,Basic,99.0,0.002,98.8,20,0,6,1,2026-09-20
+C00232,2024-01-15,South Africa,Mobile,Paid Search,Premium,299.0,0.109,266.41,13,0,5,1,2024-07-03
+C00233,2025-07-31,USA,Desktop,Paid Search,Basic,99.0,0.022,96.82,20,2,5,1,2026-12-10
+C00234,2025-01-10,South Africa,Mobile,Organic,Standard,179.0,0.039,172.02,17,0,8,0,
+C00235,2025-07-02,USA,Desktop,Referral,Premium,299.0,0.054,282.85,26,0,5,0,
+C00236,2025-05-20,India,Mobile,Organic,Premium,299.0,0.001,298.7,24,0,10,0,
+C00237,2024-11-25,South Africa,Desktop,Paid Social,Basic,99.0,0.22,77.22,22,0,10,0,
+C00238,2024-08-23,South Africa,Desktop,Paid Social,Basic,99.0,0.205,78.7,17,1,5,1,2024-11-09
+C00239,2025-04-23,South Africa,Desktop,Paid Search,Basic,99.0,0.178,81.38,25,1,7,1,2025-05-18
+C00240,2024-04-16,South Africa,Mobile,Referral,Basic,99.0,0.032,95.83,0,0,9,0,
+C00241,2025-03-21,South Africa,Tablet,Organic,Basic,99.0,0.032,95.83,20,3,9,1,2026-08-02
+C00242,2024-03-13,Brazil,Mobile,Referral,Standard,179.0,0.038,172.2,31,0,9,1,2025-04-03
+C00243,2025-05-10,South Africa,Desktop,Paid Social,Premium,299.0,0.161,250.86,39,0,4,0,
+C00244,2025-04-24,India,Desktop,Referral,Standard,179.0,0.025,174.52,27,0,7,0,
+C00245,2024-03-05,South Africa,Mobile,Paid Social,Standard,179.0,0.118,157.88,34,0,8,0,
+C00246,2025-07-31,Brazil,Mobile,Referral,Basic,99.0,0.064,92.66,19,1,5,1,2025-09-02
+C00247,2024-11-12,South Africa,Mobile,Partner,Premium,299.0,0.06,281.06,24,0,10,0,
+C00248,2025-08-22,South Africa,Mobile,Paid Search,Standard,179.0,0.079,164.86,25,5,8,1,2026-06-18
+C00249,2024-02-01,Nigeria,Mobile,Referral,Premium,299.0,0.098,269.7,24,2,6,0,
+C00250,2024-05-16,South Africa,Mobile,Paid Social,Premium,299.0,0.151,253.85,18,1,6,1,2025-10-10
+C00251,2025-01-11,India,Mobile,Paid Search,Basic,99.0,0.239,75.34,14,1,6,0,
+C00252,2024-09-08,South Africa,Mobile,Partner,Basic,99.0,0.135,85.64,9,0,7,0,
+C00253,2025-05-18,Nigeria,Desktop,Paid Search,Basic,99.0,0.183,80.88,22,1,7,0,
+C00254,2024-04-20,Nigeria,Mobile,Paid Search,Basic,99.0,0.202,79.0,18,3,7,1,2025-06-06
+C00255,2024-03-19,Nigeria,Desktop,Organic,Premium,299.0,0.056,282.26,21,1,6,0,
+C00256,2024-05-13,South Africa,Mobile,Organic,Basic,99.0,0.043,94.74,13,5,0,1,2024-06-13
+C00257,2025-03-23,South Africa,Mobile,Referral,Standard,179.0,0.027,174.17,25,0,4,0,
+C00258,2025-08-27,South Africa,Mobile,Paid Search,Standard,179.0,0.143,153.4,27,1,4,1,2026-11-14
+C00259,2024-05-09,South Africa,Desktop,Paid Search,Basic,99.0,0.01,98.01,9,1,5,1,2024-07-12
+C00260,2024-08-16,South Africa,Mobile,Organic,Basic,99.0,0.092,89.89,8,0,8,0,
+C00261,2025-12-05,USA,Desktop,Paid Search,Standard,179.0,0.238,136.4,29,1,5,0,
+C00262,2026-01-24,Kenya,Mobile,Referral,Standard,179.0,0.066,167.19,10,0,5,0,
+C00263,2025-03-18,United Kingdom,Mobile,Referral,Basic,99.0,0.046,94.45,22,0,4,1,2025-04-25
+C00264,2024-12-06,South Africa,Mobile,Organic,Basic,99.0,0.069,92.17,31,0,5,0,
+C00265,2024-09-21,South Africa,Desktop,Paid Search,Standard,179.0,0.195,144.1,34,1,5,1,2025-09-21
+C00266,2025-04-11,Kenya,Mobile,Paid Search,Basic,99.0,0.15,84.15,24,0,5,1,2025-12-04
+C00267,2025-03-26,South Africa,Mobile,Paid Social,Premium,299.0,0.044,285.84,30,1,8,0,
+C00268,2024-08-12,South Africa,Mobile,Paid Search,Basic,99.0,0.203,78.9,36,2,4,1,2026-01-02
+C00269,2024-01-18,Kenya,Mobile,Paid Search,Basic,99.0,0.088,90.29,0,0,7,0,
+C00270,2024-04-25,Kenya,Mobile,Paid Search,Standard,179.0,0.115,158.42,17,1,5,1,2025-01-08
+C00271,2025-12-31,Brazil,Tablet,Paid Social,Standard,179.0,0.097,161.64,28,1,7,1,2026-07-28
+C00272,2024-11-14,South Africa,Mobile,Paid Search,Standard,179.0,0.13,155.73,18,0,7,0,
+C00273,2025-01-02,Kenya,Mobile,Paid Search,Basic,99.0,0.12,87.12,28,3,7,1,2025-08-10
+C00274,2024-12-21,South Africa,Tablet,Referral,Premium,299.0,0.067,278.97,24,4,4,0,
+C00275,2025-08-19,South Africa,Mobile,Paid Social,Standard,179.0,0.106,160.03,22,0,7,0,
+C00276,2024-02-19,Germany,Mobile,Organic,Standard,179.0,0.069,166.65,19,0,5,1,2024-07-23
+C00277,2024-03-04,South Africa,Desktop,Referral,Basic,99.0,0.014,97.61,14,0,5,0,
+C00278,2024-07-29,Nigeria,Desktop,Referral,Basic,99.0,0.061,92.96,14,0,6,1,2025-03-05
+C00279,2025-01-05,South Africa,Desktop,Organic,Standard,179.0,0.078,165.04,23,1,10,0,
+C00280,2025-05-26,South Africa,Mobile,Paid Social,Basic,99.0,0.192,79.99,12,1,4,1,2025-08-24
+C00281,2025-01-08,USA,Tablet,Organic,Standard,179.0,0.025,174.52,29,1,7,0,
+C00282,2024-12-02,South Africa,Mobile,Paid Social,Basic,99.0,0.198,79.4,23,0,5,0,
+C00283,2025-12-15,India,Tablet,Organic,Premium,299.0,0.078,275.68,33,0,5,0,
+C00284,2024-05-02,South Africa,Desktop,Paid Social,Standard,179.0,0.005,178.1,12,1,6,0,
+C00285,2025-03-11,USA,Desktop,Organic,Premium,299.0,0.003,298.1,10,1,6,0,
+C00286,2025-02-17,South Africa,Mobile,Paid Search,Standard,179.0,0.005,178.1,21,0,6,0,
+C00287,2024-12-26,South Africa,Mobile,Partner,Basic,99.0,0.237,75.54,41,1,7,0,
+C00288,2025-09-07,India,Desktop,Paid Search,Premium,299.0,0.25,224.25,34,0,4,0,
+C00289,2024-07-22,South Africa,Mobile,Referral,Standard,179.0,0.001,178.82,17,0,6,0,
+C00290,2025-12-27,South Africa,Mobile,Partner,Standard,179.0,0.027,174.17,24,0,8,0,
+C00291,2024-09-09,Brazil,Desktop,Referral,Basic,99.0,0.079,91.18,24,1,3,1,2025-10-21
+C00292,2025-02-19,Nigeria,Desktop,Organic,Standard,179.0,0.049,170.23,10,2,7,0,
+C00293,2025-01-31,United Kingdom,Mobile,Referral,Premium,299.0,0.015,294.52,35,0,8,0,
+C00294,2025-10-09,United Kingdom,Mobile,Organic,Standard,179.0,0.036,172.56,20,1,6,0,
+C00295,2024-11-30,India,Mobile,Paid Search,Basic,99.0,0.165,82.66,17,2,7,1,2025-04-19
+C00296,2024-08-04,India,Mobile,Referral,Standard,179.0,0.011,177.03,21,2,4,0,
+C00297,2024-01-17,Nigeria,Mobile,Paid Social,Standard,179.0,0.125,156.62,30,3,7,1,2024-07-07
+C00298,2024-10-04,South Africa,Desktop,Paid Search,Premium,299.0,0.183,244.28,18,0,8,0,
+C00299,2025-09-21,South Africa,Desktop,Paid Search,Basic,99.0,0.047,94.35,4,1,6,1,2026-01-30
+C00300,2024-01-08,United Kingdom,Mobile,Referral,Basic,99.0,0.034,95.63,21,0,8,1,2025-04-27
+C00301,2025-11-13,India,Mobile,Paid Social,Premium,299.0,0.133,259.23,8,1,7,0,
+C00302,2025-02-17,Kenya,Desktop,Paid Search,Standard,179.0,0.184,146.06,19,0,5,1,2026-05-12
+C00303,2024-04-16,South Africa,Desktop,Referral,Standard,179.0,0.013,176.67,30,1,10,0,
+C00304,2024-08-18,South Africa,Desktop,Organic,Standard,179.0,0.004,178.28,26,1,10,0,
+C00305,2025-02-26,Kenya,Mobile,Organic,Basic,99.0,0.004,98.6,26,2,5,1,2025-06-30
+C00306,2024-08-28,India,Desktop,Paid Social,Standard,179.0,0.146,152.87,26,1,7,0,
+C00307,2024-03-23,South Africa,Mobile,Partner,Basic,99.0,0.151,84.05,37,0,8,1,2024-09-15
+C00308,2025-05-22,United Kingdom,Mobile,Organic,Basic,99.0,0.013,97.71,13,0,7,0,
+C00309,2025-05-27,India,Desktop,Organic,Standard,179.0,0.079,164.86,24,0,8,0,
+C00310,2024-03-31,USA,Mobile,Organic,Standard,179.0,0.072,166.11,17,2,7,1,2024-12-10
+C00311,2024-08-02,South Africa,Mobile,Referral,Premium,299.0,0.0,299.0,32,0,6,0,
+C00312,2024-07-04,USA,Mobile,Organic,Basic,99.0,0.003,98.7,18,0,8,0,
+C00313,2025-05-17,Nigeria,Mobile,Paid Search,Basic,99.0,0.218,77.42,32,3,5,1,2026-01-15
+C00314,2025-07-10,India,Mobile,Partner,Premium,299.0,0.168,248.77,20,0,5,0,
+C00315,2025-07-07,South Africa,Desktop,Organic,Basic,99.0,0.053,93.75,29,3,3,1,2026-07-14
+C00316,2025-12-16,Kenya,Mobile,Paid Search,Basic,99.0,0.005,98.5,23,0,6,0,
+C00317,2025-08-08,United Kingdom,Mobile,Paid Search,Basic,99.0,0.015,97.52,18,2,8,1,2025-10-31
+C00318,2024-09-01,South Africa,Desktop,Referral,Standard,179.0,0.049,170.23,25,0,9,0,
+C00319,2024-03-23,South Africa,Mobile,Organic,Premium,299.0,0.073,277.17,26,0,9,0,
+C00320,2025-04-13,Nigeria,Desktop,Paid Search,Standard,179.0,0.042,171.48,24,1,7,1,2025-09-30
+C00321,2025-11-29,Nigeria,Mobile,Organic,Standard,179.0,0.051,169.87,19,1,8,0,
+C00322,2026-01-13,South Africa,Mobile,Paid Social,Basic,99.0,0.058,93.26,12,2,6,1,2026-01-30
+C00323,2024-06-24,South Africa,Mobile,Referral,Basic,99.0,0.099,89.2,15,0,8,0,
+C00324,2024-06-29,South Africa,Desktop,Organic,Standard,179.0,0.036,172.56,8,0,8,0,
+C00325,2024-01-29,USA,Mobile,Paid Search,Basic,99.0,0.096,89.5,25,3,3,1,2024-02-09
+C00326,2024-04-17,Brazil,Desktop,Referral,Basic,99.0,0.036,95.44,8,2,4,1,2025-08-15
+C00327,2025-02-26,South Africa,Mobile,Organic,Basic,99.0,0.022,96.82,16,4,3,1,2025-06-09
+C00328,2025-02-20,South Africa,Mobile,Organic,Basic,99.0,0.053,93.75,23,1,9,0,
+C00329,2024-10-09,South Africa,Mobile,Paid Search,Standard,179.0,0.098,161.46,28,0,10,0,
+C00330,2024-08-24,Kenya,Mobile,Organic,Standard,179.0,0.048,170.41,7,2,3,0,
+C00331,2025-09-24,USA,Mobile,Organic,Basic,99.0,0.076,91.48,17,0,10,0,
+C00332,2024-12-16,Kenya,Mobile,Paid Search,Standard,179.0,0.24,136.04,25,1,6,1,2025-12-20
+C00333,2025-09-07,South Africa,Mobile,Organic,Standard,179.0,0.054,169.33,21,0,9,0,
+C00334,2026-01-03,South Africa,Desktop,Paid Search,Standard,179.0,0.206,142.13,32,2,7,1,2026-09-10
+C00335,2024-08-29,South Africa,Mobile,Paid Social,Premium,299.0,0.032,289.43,17,2,8,1,2025-01-06
+C00336,2024-06-03,India,Mobile,Paid Search,Basic,99.0,0.067,92.37,2,0,8,0,
+C00337,2025-12-27,United Kingdom,Mobile,Organic,Premium,299.0,0.001,298.7,30,2,5,0,
+C00338,2025-04-28,Nigeria,Mobile,Referral,Basic,99.0,0.066,92.47,14,0,7,0,
+C00339,2024-08-09,South Africa,Mobile,Organic,Basic,99.0,0.017,97.32,4,0,8,0,
+C00340,2025-04-18,USA,Mobile,Referral,Basic,99.0,0.072,91.87,17,2,6,1,2026-04-12
+C00341,2025-01-27,South Africa,Mobile,Organic,Standard,179.0,0.057,168.8,31,1,7,1,2026-04-14
+C00342,2025-11-21,India,Desktop,Referral,Basic,99.0,0.04,95.04,8,0,7,0,
+C00343,2024-07-14,USA,Mobile,Organic,Basic,99.0,0.069,92.17,37,1,6,0,
+C00344,2026-01-25,Kenya,Mobile,Organic,Standard,179.0,0.086,163.61,14,1,5,0,
+C00345,2025-12-14,USA,Desktop,Paid Search,Basic,99.0,0.028,96.23,19,4,4,1,2027-03-03
+C00346,2024-05-17,South Africa,Mobile,Organic,Basic,99.0,0.055,93.56,8,0,8,0,
+C00347,2024-05-05,United Kingdom,Mobile,Organic,Basic,99.0,0.072,91.87,18,1,4,0,
+C00348,2025-02-10,South Africa,Tablet,Paid Social,Basic,99.0,0.168,82.37,17,0,6,0,
+C00349,2024-02-04,Kenya,Desktop,Referral,Basic,99.0,0.079,91.18,6,0,4,0,
+C00350,2024-08-15,South Africa,Desktop,Organic,Basic,99.0,0.083,90.78,41,3,4,1,2025-11-25
+C00351,2024-11-27,South Africa,Mobile,Referral,Basic,99.0,0.014,97.61,14,3,7,1,2026-01-04
+C00352,2026-01-08,South Africa,Mobile,Referral,Standard,179.0,0.024,174.7,17,1,5,0,
+C00353,2026-01-26,South Africa,Tablet,Referral,Premium,299.0,0.027,290.93,32,2,8,0,
+C00354,2024-04-25,Nigeria,Desktop,Paid Social,Standard,179.0,0.08,164.68,36,0,10,0,
+C00355,2025-11-10,Kenya,Mobile,Paid Social,Standard,179.0,0.214,140.69,30,2,10,0,
+C00356,2024-03-10,South Africa,Mobile,Paid Search,Premium,299.0,0.223,232.32,14,0,7,0,
+C00357,2025-07-24,Brazil,Mobile,Paid Social,Premium,299.0,0.229,230.53,26,0,7,1,2026-11-14
+C00358,2025-10-06,USA,Mobile,Referral,Standard,179.0,0.01,177.21,6,0,5,0,
+C00359,2025-11-09,South Africa,Desktop,Organic,Premium,299.0,0.027,290.93,31,0,4,0,
+C00360,2024-06-19,South Africa,Mobile,Organic,Premium,299.0,0.067,278.97,11,0,6,1,2025-11-04
+C00361,2025-11-11,United Kingdom,Mobile,Organic,Standard,179.0,0.04,171.84,15,0,8,0,
+C00362,2024-03-29,Germany,Mobile,Partner,Standard,179.0,0.221,139.44,21,4,7,1,2025-07-15
+C00363,2025-01-30,South Africa,Mobile,Paid Search,Basic,99.0,0.009,98.11,22,3,4,1,2026-06-26
+C00364,2024-12-23,Germany,Mobile,Paid Social,Basic,99.0,0.158,83.36,16,1,6,1,2025-02-08
+C00365,2024-08-28,South Africa,Mobile,Referral,Standard,179.0,0.057,168.8,33,2,7,0,
+C00366,2024-01-17,South Africa,Mobile,Partner,Standard,179.0,0.244,135.32,27,0,7,0,
+C00367,2025-08-11,Germany,Tablet,Organic,Basic,99.0,0.01,98.01,23,1,7,0,
+C00368,2024-09-12,United Kingdom,Mobile,Referral,Standard,179.0,0.097,161.64,11,2,4,1,2024-12-04
+C00369,2025-05-19,India,Mobile,Referral,Standard,179.0,0.068,166.83,35,0,8,0,
+C00370,2024-11-08,South Africa,Mobile,Organic,Premium,299.0,0.075,276.58,18,0,8,0,
+C00371,2024-10-11,South Africa,Mobile,Paid Social,Basic,99.0,0.002,98.8,32,1,5,1,2025-12-01
+C00372,2025-11-06,South Africa,Mobile,Organic,Basic,99.0,0.018,97.22,34,1,7,1,2026-01-09
+C00373,2024-03-12,South Africa,Mobile,Paid Social,Standard,179.0,0.226,138.55,25,2,8,1,2025-01-21
+C00374,2025-07-15,South Africa,Mobile,Paid Search,Premium,299.0,0.007,296.91,32,1,8,0,
+C00375,2025-07-23,Kenya,Mobile,Organic,Premium,299.0,0.087,272.99,6,2,4,1,2025-11-17
+C00376,2024-10-16,Kenya,Desktop,Organic,Premium,299.0,0.024,291.82,22,1,7,0,
+C00377,2024-07-18,United Kingdom,Mobile,Organic,Premium,299.0,0.06,281.06,33,1,6,0,
+C00378,2024-01-05,South Africa,Mobile,Organic,Basic,99.0,0.016,97.42,25,1,7,0,
+C00379,2025-12-14,South Africa,Mobile,Paid Social,Basic,99.0,0.04,95.04,8,0,6,0,
+C00380,2025-12-23,United Kingdom,Mobile,Organic,Basic,99.0,0.025,96.52,16,2,9,0,
+C00381,2024-07-02,South Africa,Mobile,Organic,Standard,179.0,0.073,165.93,3,1,7,1,2024-08-18
+C00382,2024-01-25,India,Mobile,Paid Social,Premium,299.0,0.094,270.89,27,0,9,0,
+C00383,2024-04-03,South Africa,Mobile,Paid Social,Basic,99.0,0.036,95.44,3,2,8,1,2024-04-25
+C00384,2024-02-21,Nigeria,Mobile,Paid Search,Standard,179.0,0.249,134.43,30,1,5,1,2025-03-11
+C00385,2025-09-25,USA,Tablet,Partner,Basic,99.0,0.154,83.75,27,1,6,0,
+C00386,2024-04-26,Nigeria,Tablet,Paid Search,Basic,99.0,0.11,88.11,14,0,9,1,2024-11-15
+C00387,2025-07-23,Nigeria,Tablet,Referral,Basic,99.0,0.089,90.19,22,2,6,1,2025-08-08
+C00388,2024-05-16,United Kingdom,Mobile,Organic,Basic,99.0,0.086,90.49,16,2,5,0,
+C00389,2024-10-06,South Africa,Mobile,Paid Social,Premium,299.0,0.205,237.7,26,3,7,1,2025-01-05
+C00390,2025-04-01,United Kingdom,Mobile,Partner,Basic,99.0,0.203,78.9,9,2,6,1,2026-03-12
+C00391,2025-07-02,USA,Mobile,Referral,Premium,299.0,0.056,282.26,29,0,10,0,
+C00392,2025-10-28,Brazil,Mobile,Paid Search,Standard,179.0,0.222,139.26,8,1,8,0,
+C00393,2024-02-04,South Africa,Mobile,Paid Social,Basic,99.0,0.075,91.58,3,0,7,0,
+C00394,2024-05-29,South Africa,Mobile,Organic,Basic,99.0,0.06,93.06,17,1,9,1,2024-11-06
+C00395,2024-08-01,India,Mobile,Paid Social,Premium,299.0,0.101,268.8,22,3,4,0,
+C00396,2024-08-24,Nigeria,Mobile,Referral,Basic,99.0,0.041,94.94,20,0,6,0,
+C00397,2026-01-30,South Africa,Desktop,Partner,Premium,299.0,0.25,224.25,19,1,4,1,2026-07-18
+C00398,2025-08-15,South Africa,Mobile,Paid Search,Basic,99.0,0.246,74.65,33,1,2,1,2025-10-24
+C00399,2024-09-01,South Africa,Desktop,Organic,Standard,179.0,0.013,176.67,22,1,7,1,2025-12-08
+C00400,2026-01-10,Kenya,Mobile,Paid Social,Premium,299.0,0.143,256.24,26,0,6,0,
+C00401,2025-01-15,South Africa,Mobile,Organic,Basic,99.0,0.078,91.28,20,2,8,1,2025-11-22
+C00402,2025-01-16,South Africa,Mobile,Organic,Basic,99.0,0.055,93.56,26,2,8,0,
+C00403,2024-11-26,South Africa,Mobile,Organic,Premium,299.0,0.002,298.4,29,1,8,0,
+C00404,2024-04-19,USA,Mobile,Paid Social,Basic,99.0,0.016,97.42,22,1,5,1,2025-05-29
+C00405,2025-12-12,South Africa,Mobile,Organic,Basic,99.0,0.091,89.99,24,2,6,0,
+C00406,2024-01-11,South Africa,Mobile,Organic,Basic,99.0,0.088,90.29,3,2,6,1,2024-12-26
+C00407,2024-05-12,Kenya,Mobile,Organic,Basic,99.0,0.082,90.88,4,1,8,1,2025-05-09
+C00408,2024-06-23,South Africa,Mobile,Referral,Standard,179.0,0.099,161.28,20,0,7,0,
+C00409,2024-07-31,Brazil,Desktop,Paid Social,Standard,179.0,0.167,149.11,19,0,5,1,2024-11-03
+C00410,2024-04-10,USA,Mobile,Organic,Basic,99.0,0.096,89.5,23,1,5,0,
+C00411,2024-01-14,South Africa,Mobile,Organic,Premium,299.0,0.095,270.6,24,0,8,0,
+C00412,2025-05-31,South Africa,Mobile,Paid Search,Basic,99.0,0.202,79.0,23,4,4,1,2025-08-08
+C00413,2026-01-08,South Africa,Mobile,Organic,Basic,99.0,0.086,90.49,8,3,5,1,2027-06-07
+C00414,2024-04-02,South Africa,Mobile,Paid Social,Standard,179.0,0.171,148.39,21,1,5,1,2024-08-22
+C00415,2024-08-13,South Africa,Mobile,Paid Search,Premium,299.0,0.182,244.58,13,0,6,0,
+C00416,2025-01-20,South Africa,Desktop,Partner,Basic,99.0,0.211,78.11,21,1,8,0,
+C00417,2025-12-07,South Africa,Mobile,Organic,Basic,99.0,0.038,95.24,3,3,6,1,2025-12-22
+C00418,2025-06-13,Nigeria,Mobile,Paid Social,Standard,179.0,0.185,145.88,24,0,10,0,
+C00419,2025-08-06,South Africa,Mobile,Organic,Premium,299.0,0.064,279.86,12,0,9,0,
+C00420,2025-03-18,South Africa,Desktop,Partner,Basic,99.0,0.035,95.54,15,3,9,0,
+C00421,2024-11-13,Kenya,Desktop,Partner,Basic,99.0,0.104,88.7,25,0,4,1,2025-09-15
+C00422,2024-06-01,South Africa,Desktop,Paid Social,Standard,179.0,0.014,176.49,23,1,3,1,2024-12-24
+C00423,2025-10-20,South Africa,Desktop,Paid Search,Basic,99.0,0.237,75.54,5,0,6,1,2025-12-31
+C00424,2025-09-04,South Africa,Desktop,Organic,Basic,99.0,0.096,89.5,13,0,7,1,2026-07-01
+C00425,2024-01-20,South Africa,Mobile,Referral,Basic,99.0,0.018,97.22,6,2,7,1,2025-05-01
+C00426,2025-06-29,South Africa,Desktop,Paid Social,Basic,99.0,0.21,78.21,4,1,8,1,2025-08-21
+C00427,2024-03-05,India,Mobile,Organic,Standard,179.0,0.006,177.93,22,0,3,0,
+C00428,2025-07-17,USA,Mobile,Paid Search,Premium,299.0,0.175,246.68,28,1,9,0,
+C00429,2025-09-21,South Africa,Desktop,Paid Search,Standard,179.0,0.222,139.26,25,0,7,1,2026-06-30
+C00430,2024-04-09,South Africa,Mobile,Referral,Standard,179.0,0.057,168.8,26,1,4,0,
+C00431,2024-11-26,Germany,Mobile,Paid Social,Premium,299.0,0.029,290.33,24,0,9,0,
+C00432,2024-04-04,United Kingdom,Mobile,Paid Social,Basic,99.0,0.001,98.9,16,2,6,1,2024-07-13
+C00433,2025-03-08,South Africa,Mobile,Paid Social,Basic,99.0,0.124,86.72,9,0,7,1,2025-08-02
+C00434,2025-12-07,South Africa,Desktop,Organic,Premium,299.0,0.073,277.17,20,1,9,0,
+C00435,2024-03-02,South Africa,Mobile,Organic,Basic,99.0,0.017,97.32,7,0,8,0,
+C00436,2024-10-29,Nigeria,Desktop,Organic,Standard,179.0,0.069,166.65,14,0,5,0,
+C00437,2026-01-11,South Africa,Mobile,Referral,Standard,179.0,0.018,175.78,22,0,7,0,
+C00438,2024-08-17,South Africa,Desktop,Paid Search,Basic,99.0,0.229,76.33,17,1,4,0,
+C00439,2024-04-10,South Africa,Mobile,Paid Search,Standard,179.0,0.082,164.32,46,2,8,0,
+C00440,2025-01-07,South Africa,Desktop,Organic,Basic,99.0,0.06,93.06,7,0,10,0,
+C00441,2025-01-22,Kenya,Mobile,Organic,Basic,99.0,0.078,91.28,17,0,4,1,2026-01-04
+C00442,2025-05-20,United Kingdom,Mobile,Paid Social,Standard,179.0,0.063,167.72,10,1,5,1,2026-10-10
+C00443,2024-08-27,Kenya,Mobile,Organic,Basic,99.0,0.081,90.98,15,0,6,0,
+C00444,2025-12-29,South Africa,Mobile,Organic,Standard,179.0,0.059,168.44,18,1,6,0,
+C00445,2025-02-01,South Africa,Mobile,Referral,Premium,299.0,0.08,275.08,31,1,8,0,
+C00446,2024-08-06,India,Desktop,Organic,Premium,299.0,0.098,269.7,20,1,6,0,
+C00447,2026-01-01,Kenya,Desktop,Paid Search,Basic,99.0,0.205,78.7,16,2,7,1,2026-11-09
+C00448,2025-12-05,South Africa,Desktop,Paid Search,Basic,99.0,0.056,93.46,15,2,8,1,2026-03-02
+C00449,2025-01-15,South Africa,Mobile,Referral,Basic,99.0,0.014,97.61,7,2,9,0,
+C00450,2024-01-19,India,Mobile,Organic,Basic,99.0,0.06,93.06,13,1,4,1,2025-04-04
+C00451,2025-03-30,India,Desktop,Paid Social,Premium,299.0,0.054,282.85,21,0,10,0,
+C00452,2025-02-27,USA,Desktop,Partner,Basic,99.0,0.19,80.19,19,1,10,0,
+C00453,2024-04-22,Nigeria,Mobile,Paid Social,Basic,99.0,0.198,79.4,22,5,8,1,2024-09-06
+C00454,2025-04-28,South Africa,Tablet,Paid Search,Premium,299.0,0.194,240.99,22,0,7,0,
+C00455,2025-10-02,South Africa,Mobile,Paid Social,Basic,99.0,0.036,95.44,16,2,5,1,2026-08-18
+C00456,2024-03-21,South Africa,Desktop,Paid Search,Basic,99.0,0.138,85.34,4,1,5,0,
+C00457,2025-07-05,United Kingdom,Tablet,Paid Search,Basic,99.0,0.106,88.51,22,3,3,1,2026-04-21
+C00458,2024-04-16,Nigeria,Desktop,Paid Search,Standard,179.0,0.248,134.61,15,1,7,0,
+C00459,2025-07-24,South Africa,Mobile,Organic,Standard,179.0,0.085,163.78,27,0,9,0,
+C00460,2024-11-15,USA,Mobile,Organic,Basic,99.0,0.06,93.06,29,2,8,1,2025-12-12
+C00461,2024-01-05,South Africa,Mobile,Paid Search,Premium,299.0,0.036,288.24,22,1,6,0,
+C00462,2026-01-06,South Africa,Desktop,Organic,Premium,299.0,0.047,284.95,16,1,7,0,
+C00463,2024-05-06,South Africa,Mobile,Paid Search,Premium,299.0,0.193,241.29,24,1,6,1,2025-05-20
+C00464,2025-03-30,India,Desktop,Paid Search,Basic,99.0,0.092,89.89,21,1,6,0,
+C00465,2024-05-18,USA,Desktop,Partner,Basic,99.0,0.158,83.36,15,2,9,0,
+C00466,2025-12-11,Kenya,Mobile,Organic,Premium,299.0,0.065,279.56,19,0,8,0,
+C00467,2025-07-16,Brazil,Mobile,Paid Social,Basic,99.0,0.248,74.45,23,0,6,1,2026-08-16
+C00468,2025-09-04,USA,Desktop,Paid Search,Standard,179.0,0.043,171.3,25,2,8,0,
+C00469,2024-11-25,India,Mobile,Organic,Standard,179.0,0.002,178.64,18,1,8,0,
+C00470,2024-12-22,India,Mobile,Organic,Basic,99.0,0.077,91.38,5,1,8,0,
+C00471,2025-04-28,South Africa,Mobile,Organic,Standard,179.0,0.002,178.64,25,1,4,1,2025-12-06
+C00472,2025-08-20,India,Mobile,Organic,Premium,299.0,0.03,290.03,18,2,8,1,2026-12-14
+C00473,2025-10-07,Nigeria,Desktop,Organic,Standard,179.0,0.088,163.25,23,0,8,0,
+C00474,2024-01-14,Germany,Mobile,Paid Search,Basic,99.0,0.241,75.14,19,1,5,1,2025-05-18
+C00475,2025-05-20,South Africa,Mobile,Paid Search,Premium,299.0,0.228,230.83,9,3,6,1,2025-06-02
+C00476,2024-03-24,Germany,Mobile,Organic,Standard,179.0,0.049,170.23,22,0,7,1,2024-04-18
+C00477,2024-08-07,Brazil,Mobile,Organic,Standard,179.0,0.072,166.11,25,1,9,0,
+C00478,2025-09-24,South Africa,Mobile,Organic,Premium,299.0,0.094,270.89,29,3,5,0,
+C00479,2024-07-09,Brazil,Desktop,Paid Search,Standard,179.0,0.113,158.77,22,0,10,0,
+C00480,2025-08-30,South Africa,Mobile,Organic,Basic,99.0,0.002,98.8,2,1,7,0,
+C00481,2024-12-18,South Africa,Mobile,Paid Search,Basic,99.0,0.006,98.41,28,0,6,0,
+C00482,2024-06-26,South Africa,Desktop,Organic,Basic,99.0,0.015,97.52,21,1,6,0,
+C00483,2024-09-11,India,Mobile,Organic,Standard,179.0,0.005,178.1,11,1,4,1,2024-11-05
+C00484,2025-02-08,Nigeria,Mobile,Partner,Standard,179.0,0.168,148.93,15,0,4,0,
+C00485,2025-08-06,South Africa,Mobile,Organic,Standard,179.0,0.078,165.04,23,4,6,1,2026-11-12
+C00486,2025-04-06,Nigeria,Mobile,Organic,Basic,99.0,0.004,98.6,23,2,10,0,
+C00487,2025-12-12,South Africa,Mobile,Organic,Standard,179.0,0.078,165.04,17,1,3,1,2026-07-09
+C00488,2025-10-23,South Africa,Desktop,Partner,Premium,299.0,0.106,267.31,31,1,5,0,
+C00489,2025-07-28,India,Desktop,Paid Social,Basic,99.0,0.102,88.9,4,0,9,0,
+C00490,2025-04-04,United Kingdom,Mobile,Paid Social,Standard,179.0,0.056,168.98,13,2,6,1,2025-12-07
+C00491,2024-08-08,India,Mobile,Partner,Standard,179.0,0.062,167.9,4,1,9,0,
+C00492,2024-11-10,Nigeria,Mobile,Organic,Standard,179.0,0.012,176.85,14,1,6,1,2025-05-20
+C00493,2024-03-31,Brazil,Mobile,Partner,Basic,99.0,0.079,91.18,30,0,5,1,2025-08-13
+C00494,2024-10-12,South Africa,Desktop,Organic,Standard,179.0,0.03,173.63,37,0,7,0,
+C00495,2025-12-06,South Africa,Desktop,Paid Social,Premium,299.0,0.028,290.63,26,3,1,1,2026-03-14
+C00496,2024-11-20,South Africa,Desktop,Paid Search,Standard,179.0,0.144,153.22,16,1,5,0,
+C00497,2024-03-27,Nigeria,Mobile,Paid Search,Premium,299.0,0.04,287.04,22,1,9,0,
+C00498,2025-05-11,United Kingdom,Desktop,Partner,Premium,299.0,0.132,259.53,28,1,8,1,2026-09-01
+C00499,2026-01-03,Germany,Mobile,Organic,Basic,99.0,0.078,91.28,5,0,10,0,
+C00500,2025-10-23,South Africa,Mobile,Partner,Standard,179.0,0.161,150.18,16,0,8,0,
+C00501,2024-07-27,South Africa,Desktop,Organic,Standard,179.0,0.095,162.0,32,0,3,0,
+C00502,2024-12-11,United Kingdom,Mobile,Paid Social,Premium,299.0,0.127,261.03,16,2,5,1,2025-04-22
+C00503,2025-02-08,Brazil,Desktop,Partner,Basic,99.0,0.045,94.54,12,1,10,0,
+C00504,2024-07-07,South Africa,Desktop,Organic,Basic,99.0,0.081,90.98,18,2,9,1,2025-01-05
+C00505,2024-07-23,South Africa,Desktop,Partner,Premium,299.0,0.093,271.19,26,1,10,0,
+C00506,2024-06-29,South Africa,Mobile,Paid Search,Basic,99.0,0.167,82.47,13,4,6,0,
+C00507,2026-01-27,South Africa,Mobile,Paid Social,Standard,179.0,0.109,159.49,22,1,5,0,
+C00508,2025-07-22,South Africa,Desktop,Organic,Basic,99.0,0.05,94.05,23,1,6,1,2026-06-24
+C00509,2025-10-02,South Africa,Desktop,Paid Search,Premium,299.0,0.106,267.31,40,1,6,1,2027-01-02
+C00510,2025-09-14,United Kingdom,Mobile,Paid Social,Premium,299.0,0.059,281.36,23,0,10,0,
+C00511,2025-12-31,South Africa,Desktop,Paid Search,Basic,99.0,0.068,92.27,18,1,6,1,2026-07-20
+C00512,2024-03-21,South Africa,Mobile,Organic,Standard,179.0,0.026,174.35,33,0,7,0,
+C00513,2025-11-02,South Africa,Mobile,Organic,Basic,99.0,0.054,93.65,14,0,7,0,
+C00514,2024-02-20,USA,Desktop,Referral,Standard,179.0,0.022,175.06,10,2,8,0,
+C00515,2024-12-28,South Africa,Mobile,Organic,Standard,179.0,0.087,163.43,23,2,7,1,2026-01-19
+C00516,2025-03-28,South Africa,Mobile,Paid Social,Premium,299.0,0.109,266.41,33,1,5,1,2026-03-04
+C00517,2024-09-29,South Africa,Tablet,Partner,Basic,99.0,0.049,94.15,21,1,5,0,
+C00518,2024-04-21,United Kingdom,Desktop,Organic,Basic,99.0,0.075,91.58,17,1,8,1,2025-01-26
+C00519,2024-05-26,India,Desktop,Organic,Standard,179.0,0.001,178.82,9,1,3,1,2025-07-08
+C00520,2025-09-20,South Africa,Mobile,Paid Social,Standard,179.0,0.1,161.1,21,2,9,1,2027-01-27
+C00521,2024-08-30,South Africa,Tablet,Organic,Standard,179.0,0.044,171.12,31,1,2,1,2025-06-25
+C00522,2024-08-24,South Africa,Mobile,Paid Social,Basic,99.0,0.098,89.3,8,1,6,0,
+C00523,2025-12-04,Nigeria,Mobile,Paid Social,Basic,99.0,0.029,96.13,16,1,8,1,2026-02-02
+C00524,2024-04-19,USA,Mobile,Paid Social,Premium,299.0,0.066,279.27,21,0,6,1,2025-05-30
+C00525,2025-11-28,South Africa,Desktop,Organic,Basic,99.0,0.038,95.24,12,0,5,0,
+C00526,2025-12-02,South Africa,Desktop,Paid Social,Basic,99.0,0.038,95.24,20,0,7,1,2026-12-02
+C00527,2025-04-01,India,Desktop,Paid Social,Premium,299.0,0.164,249.96,28,3,5,1,2026-06-26
+C00528,2024-05-06,Germany,Desktop,Organic,Basic,99.0,0.028,96.23,21,1,7,0,
+C00529,2024-04-28,South Africa,Mobile,Paid Search,Standard,179.0,0.084,163.96,13,0,6,0,
+C00530,2024-08-04,South Africa,Mobile,Referral,Basic,99.0,0.096,89.5,5,1,6,1,2025-04-25
+C00531,2025-03-15,South Africa,Mobile,Paid Social,Premium,299.0,0.206,237.41,26,0,6,0,
+C00532,2024-04-27,India,Mobile,Paid Search,Standard,179.0,0.099,161.28,17,0,10,1,2024-05-05
+C00533,2024-12-13,Germany,Mobile,Organic,Premium,299.0,0.022,292.42,39,1,5,1,2025-04-03
+C00534,2024-03-29,United Kingdom,Desktop,Organic,Basic,99.0,0.002,98.8,33,1,7,0,
+C00535,2025-02-15,India,Desktop,Organic,Standard,179.0,0.044,171.12,37,1,6,0,
+C00536,2024-01-17,South Africa,Desktop,Organic,Standard,179.0,0.093,162.35,13,0,10,0,
+C00537,2025-06-24,South Africa,Mobile,Partner,Basic,99.0,0.127,86.43,23,1,4,0,
+C00538,2024-02-12,South Africa,Mobile,Organic,Basic,99.0,0.012,97.81,25,1,7,1,2024-06-05
+C00539,2024-05-28,India,Mobile,Referral,Basic,99.0,0.007,98.31,24,1,7,0,
+C00540,2024-05-13,Nigeria,Mobile,Organic,Premium,299.0,0.077,275.98,21,1,5,0,
+C00541,2025-09-25,South Africa,Mobile,Organic,Standard,179.0,0.079,164.86,31,3,4,1,2026-04-13
+C00542,2024-02-10,South Africa,Mobile,Paid Search,Standard,179.0,0.146,152.87,21,0,8,0,
+C00543,2024-11-23,Germany,Mobile,Organic,Standard,179.0,0.005,178.1,22,0,4,1,2025-12-04
+C00544,2025-03-26,Germany,Desktop,Referral,Standard,179.0,0.072,166.11,9,0,8,0,
+C00545,2025-01-28,United Kingdom,Mobile,Partner,Standard,179.0,0.072,166.11,26,1,10,0,
+C00546,2025-06-02,South Africa,Mobile,Referral,Basic,99.0,0.016,97.42,16,5,5,1,2026-04-27
+C00547,2025-09-03,USA,Mobile,Organic,Standard,179.0,0.03,173.63,25,1,5,0,
+C00548,2024-10-26,India,Mobile,Referral,Basic,99.0,0.05,94.05,20,1,4,1,2025-09-19
+C00549,2025-09-23,United Kingdom,Mobile,Organic,Premium,299.0,0.033,289.13,25,2,7,0,
+C00550,2024-08-30,United Kingdom,Mobile,Referral,Premium,299.0,0.097,270.0,24,3,4,1,2025-03-03
+C00551,2026-01-20,USA,Mobile,Paid Search,Basic,99.0,0.106,88.51,24,1,6,1,2026-12-05
+C00552,2025-01-19,USA,Mobile,Organic,Standard,179.0,0.037,172.38,19,0,8,0,
+C00553,2025-07-14,Nigeria,Desktop,Organic,Basic,99.0,0.067,92.37,6,1,10,0,
+C00554,2025-10-28,South Africa,Mobile,Organic,Premium,299.0,0.065,279.56,29,1,6,1,2026-05-20
+C00555,2025-08-27,South Africa,Mobile,Organic,Premium,299.0,0.0,299.0,18,2,5,0,
+C00556,2025-10-10,India,Mobile,Referral,Premium,299.0,0.062,280.46,13,0,8,1,2025-10-22
+C00557,2025-02-12,United Kingdom,Mobile,Referral,Basic,99.0,0.024,96.62,10,1,8,1,2025-12-24
+C00558,2024-02-03,South Africa,Mobile,Partner,Basic,99.0,0.236,75.64,20,0,6,1,2024-12-01
+C00559,2025-01-10,South Africa,Desktop,Organic,Basic,99.0,0.071,91.97,17,1,5,1,2026-05-11
+C00560,2024-05-18,USA,Mobile,Paid Social,Basic,99.0,0.07,92.07,1,0,8,0,
+C00561,2025-11-08,USA,Desktop,Organic,Basic,99.0,0.037,95.34,15,2,6,1,2026-07-12
+C00562,2024-06-29,Brazil,Mobile,Paid Search,Basic,99.0,0.001,98.9,27,1,3,0,
+C00563,2024-06-22,South Africa,Mobile,Organic,Premium,299.0,0.051,283.75,20,0,8,0,
+C00564,2024-07-09,India,Mobile,Organic,Basic,99.0,0.032,95.83,17,2,9,0,
+C00565,2025-05-04,India,Mobile,Paid Search,Basic,99.0,0.244,74.84,26,1,10,0,
+C00566,2025-03-11,South Africa,Mobile,Organic,Premium,299.0,0.053,283.15,30,3,5,0,
+C00567,2025-12-24,South Africa,Tablet,Paid Search,Standard,179.0,0.013,176.67,29,1,8,0,
+C00568,2024-11-13,Brazil,Desktop,Paid Social,Standard,179.0,0.023,174.88,3,1,8,0,
+C00569,2024-08-03,South Africa,Tablet,Organic,Standard,179.0,0.083,164.14,35,0,7,0,
+C00570,2024-02-07,Nigeria,Mobile,Partner,Premium,299.0,0.238,227.84,29,0,7,0,
+C00571,2024-01-06,United Kingdom,Desktop,Paid Search,Standard,179.0,0.171,148.39,41,0,7,0,
+C00572,2024-10-11,United Kingdom,Mobile,Referral,Standard,179.0,0.008,177.57,15,0,8,0,
+C00573,2025-12-06,South Africa,Mobile,Paid Social,Standard,179.0,0.05,170.05,7,2,7,1,2026-11-29
+C00574,2025-02-03,Germany,Tablet,Paid Social,Basic,99.0,0.218,77.42,18,1,9,0,
+C00575,2025-11-11,South Africa,Desktop,Paid Social,Basic,99.0,0.05,94.05,16,0,6,0,
+C00576,2024-03-18,India,Desktop,Referral,Standard,179.0,0.063,167.72,26,0,7,0,
+C00577,2024-03-12,South Africa,Desktop,Paid Social,Basic,99.0,0.191,80.09,27,1,6,0,
+C00578,2025-09-27,Germany,Mobile,Organic,Standard,179.0,0.057,168.8,20,3,5,0,
+C00579,2024-03-22,India,Desktop,Organic,Basic,99.0,0.064,92.66,16,1,4,0,
+C00580,2024-02-09,South Africa,Mobile,Paid Social,Basic,99.0,0.056,93.46,22,1,6,1,2024-05-27
+C00581,2024-11-03,South Africa,Desktop,Organic,Basic,99.0,0.06,93.06,16,1,7,1,2024-12-30
+C00582,2025-12-05,India,Desktop,Organic,Premium,299.0,0.075,276.58,21,1,6,1,2026-08-11
+C00583,2025-06-09,South Africa,Mobile,Organic,Basic,99.0,0.028,96.23,26,1,6,1,2026-07-07
+C00584,2024-03-16,South Africa,Mobile,Paid Search,Standard,179.0,0.212,141.05,31,1,8,0,
+C00585,2025-09-29,Kenya,Mobile,Organic,Premium,299.0,0.003,298.1,33,0,10,0,
+C00586,2025-10-04,USA,Mobile,Paid Social,Basic,99.0,0.06,93.06,17,2,5,1,2026-04-05
+C00587,2025-09-02,Nigeria,Mobile,Referral,Standard,179.0,0.088,163.25,4,3,3,1,2026-01-29
+C00588,2025-11-18,South Africa,Desktop,Referral,Basic,99.0,0.018,97.22,17,0,7,0,
+C00589,2024-07-01,Brazil,Mobile,Organic,Basic,99.0,0.014,97.61,12,1,9,1,2024-10-19
+C00590,2026-01-16,Kenya,Desktop,Paid Search,Standard,179.0,0.103,160.56,20,3,4,0,
+C00591,2024-09-01,South Africa,Mobile,Paid Search,Premium,299.0,0.159,251.46,19,0,8,0,
+C00592,2025-09-03,South Africa,Mobile,Paid Search,Basic,99.0,0.184,80.78,18,5,7,1,2026-05-13
+C00593,2025-03-17,South Africa,Mobile,Paid Social,Standard,179.0,0.061,168.08,13,4,1,1,2025-12-16
+C00594,2025-08-16,South Africa,Desktop,Organic,Basic,99.0,0.046,94.45,8,1,7,1,2025-09-21
+C00595,2025-04-23,United Kingdom,Mobile,Partner,Standard,179.0,0.095,162.0,31,4,6,1,2025-12-26
+C00596,2025-05-04,South Africa,Mobile,Organic,Standard,179.0,0.064,167.54,13,0,7,0,
+C00597,2025-04-14,United Kingdom,Mobile,Referral,Standard,179.0,0.087,163.43,21,1,5,1,2025-09-01
+C00598,2025-08-16,South Africa,Desktop,Paid Social,Standard,179.0,0.201,143.02,29,0,5,1,2025-10-27
+C00599,2025-07-17,South Africa,Mobile,Organic,Basic,99.0,0.049,94.15,25,0,5,1,2025-08-16
+C00600,2024-04-12,South Africa,Mobile,Paid Social,Standard,179.0,0.121,157.34,27,1,5,1,2024-04-23
+C00601,2025-09-21,Nigeria,Desktop,Organic,Standard,179.0,0.001,178.82,23,0,6,0,
+C00602,2025-02-12,Germany,Desktop,Referral,Standard,179.0,0.071,166.29,27,1,5,1,2025-04-06
+C00603,2024-09-03,South Africa,Mobile,Paid Social,Basic,99.0,0.195,79.69,29,0,9,0,
+C00604,2025-01-26,South Africa,Mobile,Organic,Basic,99.0,0.055,93.56,21,2,4,1,2025-06-07
+C00605,2026-01-06,South Africa,Mobile,Organic,Basic,99.0,0.07,92.07,3,2,3,1,2026-12-13
+C00606,2025-10-15,India,Mobile,Paid Social,Basic,99.0,0.008,98.21,14,3,7,1,2026-10-02
+C00607,2025-09-27,South Africa,Desktop,Organic,Basic,99.0,0.045,94.54,24,0,7,0,
+C00608,2024-12-18,India,Mobile,Referral,Basic,99.0,0.068,92.27,13,4,4,1,2026-03-23
+C00609,2025-08-20,South Africa,Mobile,Referral,Standard,179.0,0.089,163.07,34,1,7,0,
+C00610,2024-10-20,South Africa,Mobile,Paid Social,Basic,99.0,0.063,92.76,17,2,6,1,2025-02-24
+C00611,2025-06-06,Germany,Mobile,Organic,Premium,299.0,0.097,270.0,25,1,6,0,
+C00612,2025-05-02,Kenya,Mobile,Paid Social,Standard,179.0,0.08,164.68,30,0,7,1,2025-07-17
+C00613,2024-07-09,South Africa,Desktop,Partner,Standard,179.0,0.139,154.12,20,0,5,0,
+C00614,2024-07-22,Brazil,Mobile,Organic,Standard,179.0,0.039,172.02,22,2,7,0,
+C00615,2024-02-16,South Africa,Tablet,Organic,Standard,179.0,0.071,166.29,28,3,1,1,2025-03-21
+C00616,2024-04-16,South Africa,Desktop,Organic,Standard,179.0,0.082,164.32,9,3,7,1,2024-09-24
+C00617,2024-11-26,South Africa,Mobile,Paid Search,Premium,299.0,0.162,250.56,22,2,7,0,
+C00618,2024-12-30,Kenya,Mobile,Paid Social,Standard,179.0,0.145,153.04,28,2,7,1,2026-02-06
+C00619,2024-05-05,India,Mobile,Paid Search,Standard,179.0,0.079,164.86,22,1,7,1,2025-08-17
+C00620,2024-11-13,South Africa,Mobile,Paid Search,Standard,179.0,0.063,167.72,33,0,8,0,
+C00621,2025-04-05,USA,Mobile,Organic,Standard,179.0,0.072,166.11,8,1,6,1,2026-08-30
+C00622,2024-06-26,United Kingdom,Desktop,Organic,Basic,99.0,0.052,93.85,4,1,8,0,
+C00623,2024-09-14,Brazil,Mobile,Organic,Standard,179.0,0.076,165.4,27,0,5,0,
+C00624,2024-10-07,India,Mobile,Referral,Standard,179.0,0.083,164.14,28,1,5,0,
+C00625,2025-01-19,USA,Mobile,Paid Social,Premium,299.0,0.201,238.9,22,3,5,1,2026-05-29
+C00626,2024-10-06,Nigeria,Mobile,Organic,Standard,179.0,0.008,177.57,24,0,6,0,
+C00627,2025-07-15,South Africa,Tablet,Referral,Standard,179.0,0.034,172.91,27,3,9,0,
+C00628,2024-09-06,South Africa,Mobile,Organic,Premium,299.0,0.092,271.49,17,3,6,1,2025-04-11
+C00629,2024-11-26,United Kingdom,Desktop,Organic,Standard,179.0,0.04,171.84,15,1,6,0,
+C00630,2024-10-16,South Africa,Desktop,Organic,Basic,99.0,0.089,90.19,20,1,7,0,
+C00631,2024-05-19,Germany,Mobile,Partner,Basic,99.0,0.151,84.05,25,1,7,0,
+C00632,2025-06-06,South Africa,Mobile,Paid Social,Basic,99.0,0.084,90.68,9,0,6,1,2025-10-05
+C00633,2024-06-28,India,Mobile,Paid Social,Basic,99.0,0.065,92.57,16,0,6,1,2025-04-14
+C00634,2024-08-14,South Africa,Desktop,Organic,Basic,99.0,0.056,93.46,16,1,7,0,
+C00635,2025-08-27,USA,Mobile,Organic,Standard,179.0,0.036,172.56,24,1,5,0,
+C00636,2025-12-24,South Africa,Desktop,Paid Social,Standard,179.0,0.082,164.32,21,1,2,1,2027-02-22
+C00637,2025-05-26,South Africa,Desktop,Organic,Basic,99.0,0.011,97.91,14,3,4,1,2026-08-09
+C00638,2025-11-29,India,Desktop,Partner,Standard,179.0,0.067,167.01,31,0,8,0,
+C00639,2025-10-12,India,Mobile,Referral,Basic,99.0,0.036,95.44,14,1,5,1,2026-08-31
+C00640,2025-01-01,Germany,Mobile,Paid Search,Premium,299.0,0.15,254.15,22,0,8,1,2025-08-02
+C00641,2025-08-09,Brazil,Desktop,Paid Social,Basic,99.0,0.027,96.33,5,1,7,0,
+C00642,2024-09-07,South Africa,Mobile,Partner,Standard,179.0,0.069,166.65,15,2,8,1,2025-06-08
+C00643,2024-12-16,India,Desktop,Paid Search,Basic,99.0,0.127,86.43,22,1,8,1,2025-03-17
+C00644,2025-02-12,South Africa,Mobile,Paid Social,Standard,179.0,0.072,166.11,24,0,8,1,2025-04-01
+C00645,2026-01-01,Nigeria,Mobile,Referral,Basic,99.0,0.099,89.2,23,0,5,0,
+C00646,2025-10-08,South Africa,Desktop,Organic,Standard,179.0,0.039,172.02,25,1,6,1,2026-06-05
+C00647,2025-01-07,South Africa,Mobile,Referral,Basic,99.0,0.009,98.11,35,0,9,0,
+C00648,2025-05-12,Nigeria,Mobile,Organic,Premium,299.0,0.058,281.66,18,3,7,0,
+C00649,2024-06-03,Germany,Mobile,Paid Social,Standard,179.0,0.145,153.04,8,1,8,0,
+C00650,2025-09-04,South Africa,Mobile,Referral,Standard,179.0,0.079,164.86,13,0,5,0,
+C00651,2025-02-25,USA,Desktop,Paid Social,Premium,299.0,0.065,279.56,18,1,10,0,
+C00652,2025-02-09,Nigeria,Mobile,Paid Search,Premium,299.0,0.198,239.8,16,0,6,0,
+C00653,2025-08-06,South Africa,Mobile,Paid Social,Basic,99.0,0.049,94.15,19,2,4,0,
+C00654,2025-04-27,United Kingdom,Mobile,Organic,Basic,99.0,0.099,89.2,28,0,7,0,
+C00655,2024-02-25,South Africa,Tablet,Organic,Basic,99.0,0.003,98.7,30,0,3,0,
+C00656,2024-08-07,South Africa,Mobile,Organic,Basic,99.0,0.083,90.78,22,1,4,1,2025-10-22
+C00657,2024-05-14,United Kingdom,Tablet,Paid Social,Standard,179.0,0.153,151.61,38,0,10,1,2024-11-27
+C00658,2025-07-13,South Africa,Desktop,Paid Search,Premium,299.0,0.01,296.01,21,0,7,0,
+C00659,2024-01-27,South Africa,Mobile,Organic,Premium,299.0,0.048,284.65,11,3,3,1,2024-08-28
+C00660,2024-06-03,Germany,Desktop,Referral,Standard,179.0,0.079,164.86,29,1,7,0,
+C00661,2025-03-31,South Africa,Desktop,Organic,Standard,179.0,0.02,175.42,6,1,4,1,2026-05-01
+C00662,2025-06-13,India,Mobile,Paid Search,Premium,299.0,0.116,264.32,18,0,9,0,
+C00663,2025-01-18,India,Mobile,Paid Search,Premium,299.0,0.004,297.8,28,0,6,0,
+C00664,2025-10-17,South Africa,Desktop,Organic,Basic,99.0,0.06,93.06,17,3,6,1,2025-11-15
+C00665,2025-12-01,Kenya,Desktop,Paid Social,Standard,179.0,0.147,152.69,19,2,4,1,2026-03-24
+C00666,2024-04-10,South Africa,Desktop,Paid Search,Premium,299.0,0.174,246.97,15,1,10,0,
+C00667,2025-12-26,United Kingdom,Tablet,Organic,Basic,99.0,0.022,96.82,18,0,7,1,2027-04-30
+C00668,2025-04-13,South Africa,Mobile,Partner,Basic,99.0,0.011,97.91,26,1,6,1,2025-11-15
+C00669,2025-04-29,USA,Desktop,Referral,Premium,299.0,0.066,279.27,24,1,7,0,
+C00670,2024-03-13,South Africa,Desktop,Paid Social,Premium,299.0,0.021,292.72,17,0,6,0,
+C00671,2025-04-18,United Kingdom,Mobile,Referral,Premium,299.0,0.074,276.87,14,1,6,0,
+C00672,2025-07-06,South Africa,Mobile,Referral,Standard,179.0,0.013,176.67,15,2,4,1,2026-07-20
+C00673,2025-03-18,South Africa,Mobile,Organic,Basic,99.0,0.082,90.88,21,0,9,1,2025-05-15
+C00674,2024-03-05,Kenya,Desktop,Paid Social,Basic,99.0,0.194,79.79,21,1,6,0,
+C00675,2025-02-02,Nigeria,Mobile,Paid Social,Standard,179.0,0.243,135.5,15,2,2,1,2025-06-24
+C00676,2025-12-14,Brazil,Desktop,Organic,Standard,179.0,0.034,172.91,3,1,5,0,
+C00677,2025-07-05,South Africa,Mobile,Organic,Standard,179.0,0.047,170.59,24,2,9,0,
+C00678,2024-04-14,South Africa,Mobile,Organic,Standard,179.0,0.036,172.56,14,0,7,0,
+C00679,2026-01-01,South Africa,Mobile,Paid Social,Basic,99.0,0.082,90.88,24,1,7,0,
+C00680,2025-12-31,South Africa,Mobile,Referral,Standard,179.0,0.021,175.24,15,0,9,0,
+C00681,2024-05-09,USA,Desktop,Referral,Basic,99.0,0.002,98.8,10,2,5,1,2024-12-14
+C00682,2025-09-02,USA,Mobile,Organic,Basic,99.0,0.009,98.11,19,1,7,1,2025-10-10
+C00683,2024-11-05,USA,Desktop,Organic,Basic,99.0,0.027,96.33,37,0,6,0,
+C00684,2025-03-28,South Africa,Mobile,Paid Search,Basic,99.0,0.055,93.56,24,0,8,0,
+C00685,2024-12-05,South Africa,Tablet,Paid Search,Premium,299.0,0.177,246.08,25,2,6,0,
+C00686,2025-08-19,Germany,Mobile,Referral,Basic,99.0,0.042,94.84,21,1,5,1,2026-11-19
+C00687,2026-01-29,South Africa,Mobile,Referral,Basic,99.0,0.066,92.47,4,1,7,1,2027-02-04
+C00688,2025-08-28,United Kingdom,Mobile,Referral,Standard,179.0,0.054,169.33,12,3,6,1,2025-11-11
+C00689,2025-12-10,South Africa,Mobile,Referral,Standard,179.0,0.013,176.67,3,0,7,0,
+C00690,2025-12-21,South Africa,Mobile,Partner,Basic,99.0,0.037,95.34,32,0,6,0,
+C00691,2024-03-09,India,Desktop,Paid Search,Basic,99.0,0.096,89.5,30,2,9,1,2025-06-07
+C00692,2024-07-12,South Africa,Mobile,Organic,Basic,99.0,0.06,93.06,21,3,6,1,2025-08-06
+C00693,2025-07-04,Brazil,Mobile,Organic,Standard,179.0,0.046,170.77,22,2,5,1,2026-01-01
+C00694,2025-03-25,South Africa,Mobile,Paid Search,Basic,99.0,0.019,97.12,6,0,5,1,2025-12-31
+C00695,2024-02-08,South Africa,Mobile,Organic,Basic,99.0,0.056,93.46,16,0,9,0,
+C00696,2024-03-13,South Africa,Desktop,Organic,Basic,99.0,0.097,89.4,32,2,7,0,
+C00697,2025-01-31,South Africa,Mobile,Partner,Standard,179.0,0.09,162.89,22,2,6,1,2025-06-14
+C00698,2025-04-14,Kenya,Desktop,Organic,Basic,99.0,0.052,93.85,13,0,7,0,
+C00699,2024-05-07,South Africa,Tablet,Partner,Premium,299.0,0.236,228.44,10,2,8,0,
+C00700,2024-05-10,United Kingdom,Mobile,Referral,Basic,99.0,0.072,91.87,29,3,5,1,2024-10-15
+C00701,2024-04-08,USA,Mobile,Paid Social,Standard,179.0,0.239,136.22,20,1,8,1,2024-07-06
+C00702,2025-03-06,South Africa,Mobile,Paid Social,Basic,99.0,0.047,94.35,4,0,8,1,2025-03-31
+C00703,2024-01-06,South Africa,Mobile,Organic,Basic,99.0,0.02,97.02,11,1,7,1,2025-05-09
+C00704,2025-03-12,South Africa,Mobile,Paid Social,Basic,99.0,0.207,78.51,8,0,8,1,2025-04-26
+C00705,2024-12-28,India,Desktop,Organic,Premium,299.0,0.081,274.78,23,0,7,0,
+C00706,2024-12-21,Nigeria,Desktop,Partner,Premium,299.0,0.091,271.79,26,0,7,1,2024-12-29
+C00707,2025-06-01,South Africa,Mobile,Organic,Basic,99.0,0.098,89.3,14,2,8,1,2026-07-11
+C00708,2025-02-02,Nigeria,Desktop,Organic,Basic,99.0,0.036,95.44,24,0,9,0,
+C00709,2025-07-08,Kenya,Mobile,Paid Social,Premium,299.0,0.103,268.2,25,0,8,1,2026-04-06
+C00710,2025-08-05,South Africa,Desktop,Paid Social,Standard,179.0,0.218,139.98,29,2,8,0,
+C00711,2025-12-02,South Africa,Mobile,Paid Search,Basic,99.0,0.225,76.73,15,0,10,0,
+C00712,2025-09-01,Brazil,Mobile,Paid Social,Basic,99.0,0.245,74.74,42,0,6,0,
+C00713,2025-01-29,South Africa,Desktop,Organic,Standard,179.0,0.016,176.14,16,1,7,0,
+C00714,2025-01-10,South Africa,Desktop,Paid Social,Standard,179.0,0.013,176.67,14,2,7,0,
+C00715,2024-06-28,South Africa,Desktop,Organic,Standard,179.0,0.062,167.9,13,0,7,0,
+C00716,2025-04-01,Nigeria,Mobile,Organic,Premium,299.0,0.085,273.59,22,0,4,0,
+C00717,2024-04-16,South Africa,Desktop,Organic,Standard,179.0,0.061,168.08,7,1,10,0,
+C00718,2025-12-10,South Africa,Mobile,Organic,Basic,99.0,0.096,89.5,20,2,4,1,2026-06-20
+C00719,2025-10-05,South Africa,Mobile,Organic,Standard,179.0,0.087,163.43,6,1,8,0,
+C00720,2024-04-01,United Kingdom,Mobile,Paid Search,Basic,99.0,0.144,84.74,19,0,3,1,2024-10-09
+C00721,2025-08-21,South Africa,Mobile,Organic,Basic,99.0,0.086,90.49,7,1,7,1,2025-10-31
+C00722,2024-03-30,USA,Mobile,Organic,Basic,99.0,0.096,89.5,15,0,4,1,2024-07-08
+C00723,2025-07-03,South Africa,Mobile,Paid Search,Basic,99.0,0.046,94.45,23,2,4,1,2026-11-10
+C00724,2024-03-07,South Africa,Desktop,Organic,Standard,179.0,0.061,168.08,39,1,6,1,2024-04-28
+C00725,2025-01-07,Brazil,Desktop,Paid Social,Basic,99.0,0.001,98.9,9,3,5,0,
+C00726,2025-05-16,India,Desktop,Partner,Basic,99.0,0.173,81.87,17,1,6,0,
+C00727,2025-07-09,South Africa,Mobile,Paid Search,Standard,179.0,0.074,165.75,15,2,8,0,
+C00728,2024-11-14,India,Desktop,Referral,Standard,179.0,0.073,165.93,14,0,9,0,
+C00729,2025-12-03,Kenya,Mobile,Organic,Standard,179.0,0.042,171.48,15,2,6,0,
+C00730,2025-08-13,South Africa,Mobile,Organic,Premium,299.0,0.059,281.36,31,1,5,0,
+C00731,2024-06-07,India,Desktop,Paid Social,Standard,179.0,0.156,151.08,17,3,5,1,2025-03-25
+C00732,2025-05-26,India,Mobile,Referral,Basic,99.0,0.07,92.07,36,2,8,0,
+C00733,2025-07-10,South Africa,Mobile,Referral,Standard,179.0,0.05,170.05,24,0,9,1,2025-10-31
+C00734,2024-09-11,Nigeria,Mobile,Organic,Standard,179.0,0.063,167.72,13,0,5,0,
+C00735,2025-07-16,South Africa,Mobile,Referral,Basic,99.0,0.032,95.83,15,0,7,0,
+C00736,2025-11-15,South Africa,Desktop,Organic,Basic,99.0,0.015,97.52,12,1,8,1,2027-02-13
+C00737,2025-09-14,Brazil,Mobile,Organic,Basic,99.0,0.044,94.64,24,1,10,0,
+C00738,2025-08-04,Nigeria,Mobile,Organic,Standard,179.0,0.094,162.17,8,2,4,1,2026-02-22
+C00739,2025-04-28,Nigeria,Mobile,Partner,Basic,99.0,0.172,81.97,7,2,5,1,2025-07-05
+C00740,2024-07-25,Nigeria,Mobile,Organic,Basic,99.0,0.068,92.27,13,2,7,1,2024-10-20
+C00741,2025-08-28,Nigeria,Desktop,Referral,Premium,299.0,0.005,297.5,29,2,5,1,2026-12-18
+C00742,2024-10-04,South Africa,Desktop,Paid Social,Premium,299.0,0.063,280.16,34,1,5,1,2024-10-11
+C00743,2025-02-09,Brazil,Desktop,Paid Social,Basic,99.0,0.233,75.93,29,1,8,0,
+C00744,2024-08-27,United Kingdom,Desktop,Paid Social,Premium,299.0,0.103,268.2,28,0,10,0,
+C00745,2024-08-26,United Kingdom,Mobile,Referral,Basic,99.0,0.037,95.34,17,3,3,1,2025-07-10
+C00746,2024-04-30,Kenya,Desktop,Organic,Premium,299.0,0.011,295.71,30,1,10,0,
+C00747,2026-01-02,South Africa,Mobile,Organic,Premium,299.0,0.035,288.53,15,3,4,1,2026-09-04
+C00748,2024-04-22,South Africa,Mobile,Paid Social,Basic,99.0,0.153,83.85,3,2,7,1,2025-09-09
+C00749,2024-03-06,South Africa,Desktop,Organic,Standard,179.0,0.052,169.69,24,0,10,0,
+C00750,2025-12-14,South Africa,Mobile,Organic,Premium,299.0,0.097,270.0,16,1,8,0,
+C00751,2025-02-26,United Kingdom,Desktop,Organic,Premium,299.0,0.047,284.95,23,0,7,0,
+C00752,2024-11-29,USA,Desktop,Organic,Premium,299.0,0.091,271.79,25,0,7,1,2025-11-09
+C00753,2025-07-15,South Africa,Tablet,Organic,Standard,179.0,0.046,170.77,23,3,6,0,
+C00754,2024-10-19,South Africa,Mobile,Organic,Basic,99.0,0.011,97.91,26,0,8,0,
+C00755,2024-04-07,United Kingdom,Mobile,Referral,Premium,299.0,0.023,292.12,31,0,7,0,
+C00756,2025-07-10,South Africa,Desktop,Organic,Standard,179.0,0.041,171.66,23,3,7,1,2025-09-28
+C00757,2024-05-14,USA,Mobile,Partner,Standard,179.0,0.035,172.74,17,1,3,1,2025-07-14
+C00758,2025-02-25,South Africa,Mobile,Partner,Basic,99.0,0.065,92.57,19,0,5,0,
+C00759,2025-12-24,South Africa,Desktop,Organic,Standard,179.0,0.068,166.83,16,1,5,0,
+C00760,2025-12-14,South Africa,Tablet,Paid Social,Basic,99.0,0.178,81.38,16,0,7,0,
+C00761,2024-10-01,USA,Desktop,Paid Social,Standard,179.0,0.04,171.84,42,0,3,1,2025-06-05
+C00762,2025-08-17,South Africa,Mobile,Paid Social,Basic,99.0,0.204,78.8,19,0,6,0,
+C00763,2024-12-31,United Kingdom,Mobile,Organic,Standard,179.0,0.061,168.08,25,0,5,0,
+C00764,2024-04-16,South Africa,Mobile,Organic,Premium,299.0,0.012,295.41,18,0,10,0,
+C00765,2024-10-13,South Africa,Mobile,Organic,Standard,179.0,0.016,176.14,29,0,5,0,
+C00766,2025-05-11,USA,Mobile,Paid Social,Standard,179.0,0.011,177.03,27,1,4,1,2026-05-02
+C00767,2026-01-21,South Africa,Mobile,Partner,Basic,99.0,0.159,83.26,24,3,6,1,2026-07-22
+C00768,2024-01-04,South Africa,Mobile,Paid Social,Premium,299.0,0.038,287.64,26,2,10,0,
+C00769,2025-06-30,Kenya,Mobile,Paid Social,Standard,179.0,0.131,155.55,29,1,6,1,2025-08-01
+C00770,2025-10-06,India,Mobile,Partner,Basic,99.0,0.004,98.6,28,0,7,0,
+C00771,2025-12-25,South Africa,Mobile,Paid Social,Basic,99.0,0.195,79.69,20,0,8,1,2026-06-25
+C00772,2024-11-18,South Africa,Mobile,Organic,Basic,99.0,0.1,89.1,17,2,7,1,2024-12-24
+C00773,2024-03-31,Brazil,Desktop,Referral,Standard,179.0,0.049,170.23,28,1,8,0,
+C00774,2024-07-25,United Kingdom,Mobile,Organic,Premium,299.0,0.05,284.05,17,2,6,0,
+C00775,2025-10-10,India,Desktop,Organic,Standard,179.0,0.077,165.22,15,0,7,1,2026-09-01
+C00776,2025-10-30,India,Mobile,Paid Search,Basic,99.0,0.111,88.01,18,0,5,0,
+C00777,2025-04-30,Germany,Mobile,Partner,Premium,299.0,0.1,269.1,10,0,6,0,
+C00778,2024-04-03,South Africa,Mobile,Organic,Basic,99.0,0.01,98.01,25,3,8,1,2025-03-02
+C00779,2024-04-02,South Africa,Mobile,Paid Search,Premium,299.0,0.232,229.63,16,2,10,0,
+C00780,2024-12-30,Germany,Mobile,Organic,Basic,99.0,0.098,89.3,14,1,7,1,2026-03-06
+C00781,2025-03-24,Germany,Desktop,Organic,Standard,179.0,0.075,165.58,19,0,4,0,
+C00782,2024-01-25,Brazil,Desktop,Organic,Premium,299.0,0.099,269.4,24,1,5,0,
+C00783,2025-06-06,Nigeria,Mobile,Paid Social,Basic,99.0,0.236,75.64,15,2,5,1,2026-09-29
+C00784,2025-02-18,South Africa,Mobile,Referral,Standard,179.0,0.061,168.08,20,1,7,0,
+C00785,2024-01-10,Kenya,Desktop,Organic,Premium,299.0,0.075,276.58,24,0,5,0,
+C00786,2024-03-13,United Kingdom,Mobile,Organic,Basic,99.0,0.066,92.47,14,3,6,0,
+C00787,2024-12-12,South Africa,Mobile,Organic,Basic,99.0,0.046,94.45,12,4,8,1,2025-11-11
+C00788,2025-07-04,India,Desktop,Organic,Standard,179.0,0.029,173.81,30,1,7,1,2026-08-01
+C00789,2025-09-20,Nigeria,Mobile,Paid Search,Basic,99.0,0.023,96.72,1,2,8,0,
+C00790,2024-11-24,South Africa,Desktop,Paid Social,Basic,99.0,0.216,77.62,16,1,5,0,
+C00791,2024-08-13,Nigeria,Mobile,Paid Social,Standard,179.0,0.014,176.49,17,0,4,0,
+C00792,2026-01-07,United Kingdom,Mobile,Paid Search,Standard,179.0,0.085,163.78,24,0,5,0,
+C00793,2024-12-15,USA,Mobile,Paid Search,Basic,99.0,0.034,95.63,6,0,4,0,
+C00794,2024-08-28,South Africa,Desktop,Organic,Basic,99.0,0.025,96.52,14,1,6,1,2025-11-28
+C00795,2024-12-03,Nigeria,Mobile,Organic,Premium,299.0,0.029,290.33,23,0,8,0,
+C00796,2024-01-10,Kenya,Desktop,Partner,Standard,179.0,0.238,136.4,30,3,3,1,2024-08-07
+C00797,2024-08-18,Nigeria,Desktop,Referral,Premium,299.0,0.016,294.22,27,0,7,0,
+C00798,2025-01-27,South Africa,Desktop,Partner,Basic,99.0,0.224,76.82,9,1,10,0,
+C00799,2025-11-30,USA,Mobile,Referral,Premium,299.0,0.045,285.54,20,1,10,0,
+C00800,2025-07-16,USA,Mobile,Paid Social,Standard,179.0,0.006,177.93,28,0,7,1,2026-03-02
+C00801,2025-08-18,Nigeria,Mobile,Partner,Basic,99.0,0.194,79.79,8,1,7,0,
+C00802,2025-02-19,Nigeria,Mobile,Paid Search,Premium,299.0,0.176,246.38,23,1,9,0,
+C00803,2024-03-25,South Africa,Desktop,Organic,Standard,179.0,0.063,167.72,21,0,10,0,
+C00804,2024-10-24,Nigeria,Mobile,Organic,Basic,99.0,0.042,94.84,15,0,4,0,
+C00805,2026-01-29,South Africa,Desktop,Organic,Basic,99.0,0.025,96.52,40,2,9,1,2026-08-25
+C00806,2024-02-03,Germany,Mobile,Organic,Standard,179.0,0.075,165.58,18,0,6,0,
+C00807,2025-10-31,South Africa,Mobile,Organic,Basic,99.0,0.095,89.6,22,2,5,1,2027-02-22
+C00808,2025-06-05,Germany,Mobile,Paid Social,Basic,99.0,0.18,81.18,12,2,5,1,2026-05-10
+C00809,2024-08-04,South Africa,Desktop,Referral,Basic,99.0,0.013,97.71,22,2,6,1,2025-01-21
+C00810,2025-08-15,United Kingdom,Mobile,Paid Social,Basic,99.0,0.09,90.09,25,1,4,1,2026-03-22
+C00811,2025-09-29,United Kingdom,Mobile,Organic,Basic,99.0,0.001,98.9,13,2,7,0,
+C00812,2024-02-02,South Africa,Desktop,Paid Social,Standard,179.0,0.06,168.26,21,3,6,1,2025-02-12
+C00813,2024-03-22,South Africa,Mobile,Organic,Basic,99.0,0.098,89.3,11,1,8,0,
+C00814,2025-05-22,India,Mobile,Organic,Basic,99.0,0.099,89.2,9,1,7,1,2025-10-31
+C00815,2026-01-31,Nigeria,Mobile,Organic,Standard,179.0,0.078,165.04,29,3,5,1,2027-01-11
+C00816,2024-01-19,South Africa,Mobile,Organic,Basic,99.0,0.016,97.42,14,1,8,0,
+C00817,2025-05-22,South Africa,Mobile,Organic,Standard,179.0,0.098,161.46,3,2,9,0,
+C00818,2024-04-14,South Africa,Mobile,Referral,Basic,99.0,0.033,95.73,32,0,9,0,
+C00819,2025-05-10,United Kingdom,Mobile,Paid Social,Basic,99.0,0.237,75.54,12,2,7,1,2026-01-14
+C00820,2025-04-19,United Kingdom,Mobile,Paid Social,Basic,99.0,0.103,88.8,16,1,8,1,2026-03-06
+C00821,2024-03-09,South Africa,Mobile,Organic,Standard,179.0,0.005,178.1,34,1,9,0,
+C00822,2025-06-02,Nigeria,Mobile,Referral,Basic,99.0,0.083,90.78,17,0,10,0,
+C00823,2025-11-14,Germany,Mobile,Paid Social,Premium,299.0,0.097,270.0,23,2,8,1,2026-05-15
+C00824,2025-10-19,India,Mobile,Organic,Basic,99.0,0.078,91.28,8,0,7,0,
+C00825,2024-01-23,South Africa,Mobile,Paid Social,Standard,179.0,0.241,135.86,8,2,6,0,
+C00826,2024-07-06,South Africa,Mobile,Paid Search,Standard,179.0,0.148,152.51,20,2,7,0,
+C00827,2024-07-02,South Africa,Mobile,Paid Search,Basic,99.0,0.148,84.35,21,2,5,1,2025-06-21
+C00828,2024-12-11,South Africa,Desktop,Organic,Standard,179.0,0.079,164.86,23,0,8,0,
+C00829,2024-04-18,South Africa,Desktop,Paid Search,Basic,99.0,0.141,85.04,14,4,4,1,2025-07-03
+C00830,2025-10-13,South Africa,Mobile,Organic,Basic,99.0,0.091,89.99,18,1,9,0,
+C00831,2025-08-14,South Africa,Mobile,Organic,Basic,99.0,0.012,97.81,3,0,3,1,2025-09-10
+C00832,2025-09-07,United Kingdom,Mobile,Organic,Standard,179.0,0.031,173.45,25,1,3,1,2027-02-02
+C00833,2024-05-31,South Africa,Desktop,Partner,Premium,299.0,0.107,267.01,25,0,6,1,2025-01-23
+C00834,2024-01-12,Germany,Mobile,Organic,Basic,99.0,0.068,92.27,34,0,6,0,
+C00835,2025-11-24,South Africa,Mobile,Organic,Standard,179.0,0.079,164.86,21,0,5,0,
+C00836,2024-08-08,Nigeria,Mobile,Organic,Standard,179.0,0.096,161.82,13,1,6,0,
+C00837,2025-05-15,South Africa,Mobile,Referral,Basic,99.0,0.03,96.03,18,0,6,0,
+C00838,2025-11-23,India,Mobile,Paid Search,Standard,179.0,0.103,160.56,18,1,7,0,
+C00839,2024-01-28,India,Desktop,Referral,Standard,179.0,0.003,178.46,24,1,6,0,
+C00840,2024-01-05,South Africa,Desktop,Organic,Premium,299.0,0.025,291.52,24,0,6,0,
+C00841,2024-01-05,United Kingdom,Mobile,Organic,Premium,299.0,0.037,287.94,14,0,7,0,
+C00842,2024-04-29,South Africa,Mobile,Paid Search,Basic,99.0,0.052,93.85,5,1,8,1,2025-05-26
+C00843,2024-02-09,Nigeria,Mobile,Organic,Basic,99.0,0.047,94.35,20,3,8,1,2025-01-19
+C00844,2025-09-16,South Africa,Mobile,Referral,Standard,179.0,0.036,172.56,32,1,7,0,
+C00845,2025-04-06,South Africa,Mobile,Referral,Basic,99.0,0.062,92.86,19,1,6,1,2025-09-15
+C00846,2026-01-16,South Africa,Mobile,Paid Search,Basic,99.0,0.173,81.87,25,2,7,0,
+C00847,2025-09-02,USA,Desktop,Partner,Premium,299.0,0.098,269.7,32,0,8,0,
+C00848,2026-01-03,South Africa,Tablet,Paid Search,Basic,99.0,0.188,80.39,20,0,7,1,2027-01-11
+C00849,2024-06-30,Nigeria,Desktop,Organic,Standard,179.0,0.07,166.47,14,1,10,0,
+C00850,2024-08-07,South Africa,Desktop,Paid Search,Premium,299.0,0.176,246.38,26,1,4,0,
+C00851,2025-10-09,South Africa,Mobile,Organic,Basic,99.0,0.083,90.78,28,1,5,1,2026-10-29
+C00852,2024-07-05,South Africa,Mobile,Referral,Standard,179.0,0.021,175.24,25,1,7,1,2025-01-30
+C00853,2024-02-13,USA,Mobile,Organic,Premium,299.0,0.054,282.85,30,1,6,1,2024-09-13
+C00854,2025-05-24,India,Mobile,Organic,Standard,179.0,0.09,162.89,17,2,4,1,2026-09-01
+C00855,2025-09-02,South Africa,Mobile,Paid Search,Basic,99.0,0.177,81.48,16,3,3,1,2026-06-24
+C00856,2026-01-07,Germany,Desktop,Organic,Basic,99.0,0.043,94.74,17,1,7,1,2026-03-31
+C00857,2025-12-07,South Africa,Mobile,Organic,Premium,299.0,0.098,269.7,24,5,4,1,2026-12-18
+C00858,2024-04-01,South Africa,Mobile,Paid Social,Basic,99.0,0.058,93.26,27,1,4,0,
+C00859,2025-08-11,Kenya,Mobile,Organic,Standard,179.0,0.071,166.29,3,2,7,1,2026-05-06
+C00860,2025-10-06,South Africa,Tablet,Paid Search,Basic,99.0,0.189,80.29,18,2,7,1,2026-10-19
+C00861,2025-06-15,South Africa,Mobile,Organic,Basic,99.0,0.015,97.52,17,0,7,0,
+C00862,2025-09-16,Germany,Mobile,Organic,Premium,299.0,0.071,277.77,13,0,6,0,
+C00863,2025-09-30,South Africa,Mobile,Organic,Standard,179.0,0.047,170.59,26,0,7,0,
+C00864,2024-12-06,USA,Desktop,Referral,Premium,299.0,0.085,273.59,18,0,8,1,2025-03-20
+C00865,2024-01-31,United Kingdom,Tablet,Partner,Basic,99.0,0.031,95.93,15,2,4,0,
+C00866,2024-12-13,India,Mobile,Organic,Standard,179.0,0.087,163.43,36,1,4,0,
+C00867,2024-06-02,United Kingdom,Desktop,Partner,Premium,299.0,0.106,267.31,32,1,6,0,
+C00868,2024-03-27,India,Mobile,Paid Social,Basic,99.0,0.133,85.83,23,1,7,0,
+C00869,2024-04-05,South Africa,Desktop,Paid Social,Basic,99.0,0.057,93.36,21,0,5,1,2024-11-07
+C00870,2025-06-15,Nigeria,Mobile,Paid Social,Premium,299.0,0.112,265.51,23,1,7,1,2026-02-15
+C00871,2025-01-19,Kenya,Mobile,Paid Social,Basic,99.0,0.246,74.65,34,2,8,1,2025-09-08
+C00872,2025-02-15,USA,Desktop,Referral,Standard,179.0,0.005,178.1,27,1,8,0,
+C00873,2025-07-21,South Africa,Mobile,Paid Search,Premium,299.0,0.002,298.4,18,0,7,1,2025-09-30
+C00874,2025-02-21,Nigeria,Mobile,Paid Search,Basic,99.0,0.061,92.96,7,0,6,1,2026-04-28
+C00875,2025-04-25,India,Desktop,Organic,Basic,99.0,0.031,95.93,23,0,7,0,
+C00876,2024-03-06,South Africa,Tablet,Organic,Basic,99.0,0.093,89.79,18,1,4,1,2024-08-26
+C00877,2025-10-10,India,Mobile,Paid Social,Basic,99.0,0.053,93.75,7,1,4,1,2026-09-24
+C00878,2024-12-07,South Africa,Desktop,Organic,Basic,99.0,0.099,89.2,21,0,5,0,
+C00879,2024-04-28,South Africa,Desktop,Organic,Standard,179.0,0.048,170.41,19,1,7,0,
+C00880,2025-09-11,Nigeria,Mobile,Organic,Basic,99.0,0.018,97.22,22,2,8,0,
+C00881,2025-07-13,South Africa,Desktop,Organic,Standard,179.0,0.049,170.23,25,2,5,0,
+C00882,2024-02-10,South Africa,Mobile,Paid Social,Basic,99.0,0.205,78.7,13,0,7,0,
+C00883,2024-05-27,South Africa,Desktop,Paid Social,Basic,99.0,0.235,75.74,23,2,4,1,2024-06-13
+C00884,2024-01-13,South Africa,Mobile,Paid Search,Basic,99.0,0.043,94.74,14,4,3,1,2025-04-19
+C00885,2024-07-25,India,Mobile,Organic,Standard,179.0,0.04,171.84,18,2,6,0,
+C00886,2024-03-17,USA,Mobile,Paid Search,Standard,179.0,0.026,174.35,17,1,5,0,
+C00887,2025-06-24,Nigeria,Mobile,Organic,Basic,99.0,0.041,94.94,27,0,8,0,
+C00888,2025-02-02,South Africa,Desktop,Paid Social,Premium,299.0,0.016,294.22,22,0,6,1,2025-05-03
+C00889,2026-01-16,Nigeria,Tablet,Paid Search,Standard,179.0,0.066,167.19,32,2,7,1,2027-02-26
+C00890,2025-07-25,India,Mobile,Paid Search,Basic,99.0,0.248,74.45,32,1,5,1,2026-11-26
+C00891,2025-04-10,Germany,Mobile,Paid Search,Premium,299.0,0.011,295.71,18,2,5,1,2026-07-02
+C00892,2025-01-23,South Africa,Mobile,Partner,Basic,99.0,0.215,77.72,0,4,8,1,2026-02-19
+C00893,2024-02-11,South Africa,Mobile,Paid Social,Basic,99.0,0.019,97.12,26,0,4,0,
+C00894,2024-02-23,USA,Mobile,Paid Search,Standard,179.0,0.132,155.37,18,2,8,1,2025-06-12
+C00895,2025-04-14,India,Desktop,Paid Search,Basic,99.0,0.113,87.81,11,2,10,0,
+C00896,2024-01-04,South Africa,Desktop,Organic,Basic,99.0,0.009,98.11,13,0,9,0,
+C00897,2024-02-02,India,Mobile,Partner,Standard,179.0,0.05,170.05,18,0,5,1,2024-04-15
+C00898,2024-06-15,South Africa,Mobile,Organic,Basic,99.0,0.037,95.34,28,1,10,0,
+C00899,2025-11-04,South Africa,Mobile,Organic,Premium,299.0,0.024,291.82,25,2,7,0,
+C00900,2024-12-15,India,Mobile,Partner,Premium,299.0,0.181,244.88,34,0,5,1,2026-01-18
+C00901,2025-06-24,Nigeria,Mobile,Paid Social,Standard,179.0,0.175,147.67,25,1,7,0,
+C00902,2024-11-09,South Africa,Mobile,Organic,Standard,179.0,0.047,170.59,19,1,6,0,
+C00903,2024-05-11,USA,Mobile,Organic,Standard,179.0,0.084,163.96,18,1,5,0,
+C00904,2024-10-09,India,Mobile,Organic,Premium,299.0,0.093,271.19,28,0,9,0,
+C00905,2024-03-10,South Africa,Desktop,Paid Social,Basic,99.0,0.15,84.15,25,2,6,0,
+C00906,2025-08-09,United Kingdom,Mobile,Organic,Basic,99.0,0.064,92.66,26,3,5,1,2026-11-28
+C00907,2024-05-19,India,Mobile,Partner,Standard,179.0,0.074,165.75,19,0,5,0,
+C00908,2024-10-13,Nigeria,Mobile,Partner,Standard,179.0,0.065,167.36,22,1,7,0,
+C00909,2026-01-16,Brazil,Desktop,Paid Search,Basic,99.0,0.237,75.54,23,1,5,0,
+C00910,2025-03-27,United Kingdom,Mobile,Paid Social,Standard,179.0,0.182,146.42,18,0,5,0,
+C00911,2024-12-15,South Africa,Mobile,Organic,Basic,99.0,0.017,97.32,9,0,7,0,
+C00912,2025-02-17,South Africa,Mobile,Organic,Premium,299.0,0.094,270.89,18,2,9,0,
+C00913,2025-08-20,India,Mobile,Paid Social,Basic,99.0,0.146,84.55,16,0,7,1,2026-08-21
+C00914,2024-07-12,Brazil,Mobile,Organic,Basic,99.0,0.034,95.63,23,0,8,0,
+C00915,2025-04-29,South Africa,Desktop,Organic,Basic,99.0,0.078,91.28,28,0,6,1,2026-09-06
+C00916,2025-10-26,South Africa,Mobile,Organic,Basic,99.0,0.01,98.01,7,1,7,0,
+C00917,2025-03-12,India,Mobile,Organic,Basic,99.0,0.074,91.67,13,0,9,0,
+C00918,2024-12-06,South Africa,Mobile,Paid Search,Basic,99.0,0.145,84.64,15,0,6,0,
+C00919,2024-04-20,South Africa,Desktop,Paid Social,Basic,99.0,0.178,81.38,24,2,7,1,2024-09-04
+C00920,2024-07-08,USA,Desktop,Referral,Basic,99.0,0.068,92.27,14,1,9,0,
+C00921,2025-12-21,India,Desktop,Paid Social,Basic,99.0,0.236,75.64,15,3,4,1,2026-11-13
+C00922,2025-02-16,USA,Mobile,Referral,Basic,99.0,0.053,93.75,7,4,4,1,2025-03-27
+C00923,2024-08-17,United Kingdom,Desktop,Paid Search,Basic,99.0,0.105,88.6,22,3,4,1,2025-02-04
+C00924,2024-11-14,South Africa,Desktop,Referral,Basic,99.0,0.006,98.41,17,0,5,0,
+C00925,2025-03-16,USA,Mobile,Paid Search,Basic,99.0,0.152,83.95,13,2,5,1,2026-08-05
+C00926,2025-02-13,South Africa,Mobile,Organic,Basic,99.0,0.06,93.06,16,1,10,0,
+C00927,2025-06-17,South Africa,Desktop,Partner,Basic,99.0,0.162,82.96,27,0,4,1,2026-01-15
+C00928,2024-07-15,USA,Mobile,Organic,Standard,179.0,0.005,178.1,13,0,10,0,
+C00929,2025-05-09,United Kingdom,Desktop,Organic,Premium,299.0,0.038,287.64,17,1,6,0,
+C00930,2024-12-03,USA,Mobile,Organic,Premium,299.0,0.061,280.76,34,2,10,0,
+C00931,2025-12-17,South Africa,Mobile,Organic,Standard,179.0,0.066,167.19,22,0,6,0,
+C00932,2024-04-30,Brazil,Mobile,Organic,Standard,179.0,0.083,164.14,26,0,7,0,
+C00933,2024-04-23,United Kingdom,Desktop,Paid Search,Basic,99.0,0.138,85.34,21,0,6,0,
+C00934,2024-12-17,United Kingdom,Desktop,Referral,Standard,179.0,0.055,169.16,21,1,6,0,
+C00935,2025-01-22,USA,Mobile,Organic,Standard,179.0,0.058,168.62,18,2,8,1,2026-04-22
+C00936,2025-06-10,South Africa,Mobile,Paid Search,Premium,299.0,0.081,274.78,31,3,6,1,2026-10-23
+C00937,2024-11-03,Germany,Mobile,Organic,Premium,299.0,0.005,297.5,33,1,9,0,
+C00938,2025-11-27,United Kingdom,Mobile,Referral,Basic,99.0,0.0,99.0,27,2,5,0,
+C00939,2024-12-27,India,Tablet,Organic,Standard,179.0,0.084,163.96,12,0,8,0,
+C00940,2024-04-08,USA,Mobile,Organic,Premium,299.0,0.02,293.02,34,0,5,0,
+C00941,2024-03-31,United Kingdom,Mobile,Paid Search,Basic,99.0,0.151,84.05,15,2,3,1,2025-07-31
+C00942,2026-01-11,South Africa,Mobile,Paid Social,Premium,299.0,0.146,255.35,18,1,8,0,
+C00943,2024-04-12,South Africa,Tablet,Referral,Basic,99.0,0.04,95.04,17,0,8,0,
+C00944,2025-12-23,Brazil,Mobile,Paid Social,Premium,299.0,0.052,283.45,31,0,7,0,
+C00945,2024-07-30,Brazil,Desktop,Referral,Standard,179.0,0.07,166.47,25,0,8,0,
+C00946,2024-03-12,Brazil,Mobile,Paid Search,Basic,99.0,0.023,96.72,16,0,9,0,
+C00947,2024-08-20,South Africa,Mobile,Organic,Standard,179.0,0.078,165.04,28,2,10,0,
+C00948,2025-04-13,South Africa,Desktop,Organic,Basic,99.0,0.051,93.95,19,1,5,0,
+C00949,2024-11-22,India,Mobile,Organic,Standard,179.0,0.035,172.74,16,2,9,1,2025-08-07
+C00950,2025-08-21,India,Desktop,Organic,Standard,179.0,0.073,165.93,15,1,10,0,
+C00951,2025-04-10,South Africa,Mobile,Paid Search,Standard,179.0,0.156,151.08,24,0,7,0,
+C00952,2024-11-01,Nigeria,Desktop,Organic,Premium,299.0,0.031,289.73,23,1,4,0,
+C00953,2025-04-28,South Africa,Desktop,Paid Search,Basic,99.0,0.218,77.42,7,2,3,1,2025-10-23
+C00954,2026-01-10,Kenya,Desktop,Paid Search,Basic,99.0,0.054,93.65,25,1,6,0,
+C00955,2024-11-09,South Africa,Mobile,Paid Social,Basic,99.0,0.06,93.06,14,3,9,1,2025-03-21
+C00956,2024-04-26,South Africa,Desktop,Paid Social,Basic,99.0,0.086,90.49,31,0,7,0,
+C00957,2024-11-07,South Africa,Tablet,Organic,Basic,99.0,0.028,96.23,7,1,5,1,2026-02-25
+C00958,2025-10-02,USA,Mobile,Organic,Basic,99.0,0.045,94.54,17,1,5,1,2027-02-10
+C00959,2024-06-14,Germany,Mobile,Paid Social,Basic,99.0,0.058,93.26,12,2,5,0,
+C00960,2025-12-24,USA,Desktop,Paid Social,Basic,99.0,0.056,93.46,10,1,7,1,2026-06-11
+C00961,2025-03-24,Kenya,Mobile,Organic,Premium,299.0,0.076,276.28,20,1,6,1,2026-06-06
+C00962,2025-04-03,South Africa,Desktop,Organic,Basic,99.0,0.026,96.43,32,1,10,0,
+C00963,2024-08-29,South Africa,Desktop,Paid Social,Premium,299.0,0.172,247.57,25,1,8,0,
+C00964,2025-12-02,United Kingdom,Mobile,Paid Social,Basic,99.0,0.244,74.84,12,1,7,1,2025-12-19
+C00965,2024-01-28,South Africa,Mobile,Organic,Basic,99.0,0.077,91.38,3,0,7,0,
+C00966,2024-08-15,Germany,Mobile,Paid Search,Standard,179.0,0.098,161.46,7,0,5,0,
+C00967,2024-11-14,India,Mobile,Referral,Basic,99.0,0.089,90.19,14,1,6,0,
+C00968,2024-12-29,USA,Desktop,Organic,Basic,99.0,0.008,98.21,13,0,3,1,2025-05-04
+C00969,2024-12-27,South Africa,Mobile,Referral,Standard,179.0,0.07,166.47,19,1,8,1,2026-01-29
+C00970,2024-04-22,Kenya,Mobile,Organic,Basic,99.0,0.097,89.4,0,2,7,0,
+C00971,2024-06-20,South Africa,Desktop,Paid Search,Basic,99.0,0.019,97.12,17,0,9,0,
+C00972,2024-03-13,South Africa,Mobile,Paid Search,Standard,179.0,0.223,139.08,29,0,6,1,2025-02-04
+C00973,2025-03-12,Germany,Desktop,Organic,Basic,99.0,0.1,89.1,31,0,7,0,
+C00974,2024-09-24,Nigeria,Mobile,Referral,Premium,299.0,0.017,293.92,9,3,3,1,2025-09-25
+C00975,2025-03-07,Germany,Mobile,Paid Search,Basic,99.0,0.135,85.64,12,2,8,0,
+C00976,2025-03-25,South Africa,Mobile,Partner,Premium,299.0,0.098,269.7,17,1,7,0,
+C00977,2025-06-18,Brazil,Desktop,Organic,Standard,179.0,0.046,170.77,22,0,9,0,
+C00978,2025-02-20,Brazil,Desktop,Referral,Premium,299.0,0.042,286.44,14,1,6,0,
+C00979,2025-05-08,Kenya,Desktop,Partner,Premium,299.0,0.127,261.03,37,2,7,1,2025-10-10
+C00980,2025-03-23,India,Tablet,Paid Search,Basic,99.0,0.008,98.21,18,0,10,0,
+C00981,2025-05-12,South Africa,Desktop,Organic,Standard,179.0,0.048,170.41,20,2,6,1,2025-09-28
+C00982,2025-04-14,Germany,Desktop,Paid Social,Basic,99.0,0.232,76.03,31,0,9,0,
+C00983,2024-08-28,USA,Mobile,Paid Search,Premium,299.0,0.093,271.19,24,0,8,0,
+C00984,2024-07-06,India,Desktop,Partner,Standard,179.0,0.103,160.56,24,2,9,1,2025-01-14
+C00985,2025-08-23,India,Desktop,Paid Search,Basic,99.0,0.156,83.56,12,3,6,1,2026-03-28
+C00986,2024-09-18,Kenya,Desktop,Organic,Premium,299.0,0.001,298.7,13,1,7,1,2025-02-18
+C00987,2025-02-22,India,Mobile,Organic,Basic,99.0,0.063,92.76,13,5,5,1,2025-06-21
+C00988,2024-05-30,Germany,Mobile,Paid Social,Standard,179.0,0.213,140.87,38,3,4,1,2025-05-09
+C00989,2024-11-24,South Africa,Desktop,Partner,Standard,179.0,0.028,173.99,26,3,4,0,
+C00990,2025-02-07,South Africa,Mobile,Organic,Basic,99.0,0.021,96.92,20,0,9,0,
+C00991,2025-04-22,India,Mobile,Paid Social,Standard,179.0,0.226,138.55,13,2,5,0,
+C00992,2025-02-05,United Kingdom,Tablet,Partner,Premium,299.0,0.13,260.13,31,0,9,0,
+C00993,2024-10-01,Kenya,Mobile,Organic,Basic,99.0,0.057,93.36,7,2,8,0,
+C00994,2026-01-02,USA,Mobile,Organic,Standard,179.0,0.086,163.61,8,0,9,0,
+C00995,2025-01-25,United Kingdom,Mobile,Paid Social,Basic,99.0,0.112,87.91,14,1,6,0,
+C00996,2025-09-07,South Africa,Mobile,Paid Social,Standard,179.0,0.051,169.87,37,1,6,0,
+C00997,2025-07-15,South Africa,Desktop,Organic,Basic,99.0,0.066,92.47,33,1,8,0,
+C00998,2025-03-01,Nigeria,Desktop,Referral,Premium,299.0,0.066,279.27,20,3,6,0,
+C00999,2025-11-06,India,Tablet,Paid Search,Premium,299.0,0.065,279.56,19,2,5,0,
+C01000,2024-04-07,Nigeria,Desktop,Referral,Basic,99.0,0.046,94.45,5,1,10,0,
+C01001,2025-12-02,Kenya,Desktop,Referral,Basic,99.0,0.071,91.97,19,0,6,0,
+C01002,2025-10-09,Germany,Mobile,Referral,Standard,179.0,0.061,168.08,22,1,5,0,
+C01003,2025-01-18,Germany,Desktop,Paid Search,Standard,179.0,0.099,161.28,27,2,7,0,
+C01004,2025-07-12,India,Mobile,Organic,Basic,99.0,0.013,97.71,25,1,8,1,2026-07-13
+C01005,2025-01-31,South Africa,Mobile,Paid Search,Basic,99.0,0.159,83.26,16,2,2,1,2026-03-11
+C01006,2024-07-23,India,Tablet,Organic,Basic,99.0,0.065,92.57,22,1,9,0,
+C01007,2025-09-01,Kenya,Desktop,Paid Social,Premium,299.0,0.107,267.01,18,1,4,1,2025-11-06
+C01008,2024-07-06,South Africa,Mobile,Organic,Standard,179.0,0.036,172.56,25,1,8,0,
+C01009,2024-08-27,United Kingdom,Desktop,Paid Search,Premium,299.0,0.167,249.07,20,1,5,1,2025-03-22
+C01010,2025-01-30,Germany,Mobile,Organic,Standard,179.0,0.096,161.82,25,0,10,0,
+C01011,2025-09-30,Kenya,Mobile,Organic,Premium,299.0,0.086,273.29,27,2,6,1,2027-03-03
+C01012,2024-10-19,India,Mobile,Organic,Basic,99.0,0.056,93.46,19,0,6,0,
+C01013,2025-01-11,South Africa,Mobile,Paid Social,Basic,99.0,0.213,77.91,24,1,5,1,2025-04-26
+C01014,2024-02-01,South Africa,Mobile,Referral,Premium,299.0,0.074,276.87,11,1,6,1,2025-06-07
+C01015,2024-03-29,South Africa,Mobile,Organic,Premium,299.0,0.053,283.15,15,0,6,1,2024-06-22
+C01016,2024-02-12,South Africa,Mobile,Referral,Basic,99.0,0.098,89.3,16,1,8,0,
+C01017,2024-02-24,Germany,Mobile,Referral,Basic,99.0,0.006,98.41,6,1,7,0,
+C01018,2025-10-23,India,Desktop,Organic,Standard,179.0,0.003,178.46,18,1,5,0,
+C01019,2025-10-03,Germany,Desktop,Paid Social,Basic,99.0,0.082,90.88,15,3,4,1,2026-08-23
+C01020,2025-09-18,South Africa,Desktop,Paid Search,Basic,99.0,0.23,76.23,28,2,7,1,2026-12-19
+C01021,2024-02-12,South Africa,Mobile,Organic,Premium,299.0,0.06,281.06,25,3,4,1,2025-06-11
+C01022,2024-02-29,South Africa,Desktop,Paid Search,Basic,99.0,0.034,95.63,26,0,7,1,2024-08-02
+C01023,2024-08-01,United Kingdom,Desktop,Organic,Standard,179.0,0.014,176.49,23,0,7,0,
+C01024,2025-03-06,South Africa,Mobile,Referral,Basic,99.0,0.044,94.64,14,2,6,1,2026-01-31
+C01025,2024-09-11,Kenya,Mobile,Partner,Basic,99.0,0.237,75.54,19,1,9,0,
+C01026,2025-01-06,India,Mobile,Referral,Standard,179.0,0.083,164.14,27,1,4,0,
+C01027,2024-05-11,United Kingdom,Mobile,Paid Search,Basic,99.0,0.058,93.26,28,4,4,1,2024-07-27
+C01028,2025-07-10,South Africa,Mobile,Paid Search,Standard,179.0,0.052,169.69,20,2,8,1,2026-05-14
+C01029,2024-08-27,South Africa,Mobile,Partner,Basic,99.0,0.231,76.13,5,0,9,1,2025-10-13
+C01030,2024-02-20,United Kingdom,Mobile,Organic,Premium,299.0,0.045,285.54,10,0,10,1,2024-07-03
+C01031,2025-07-19,Nigeria,Desktop,Organic,Standard,179.0,0.077,165.22,18,2,6,1,2025-12-11
+C01032,2025-11-18,South Africa,Mobile,Paid Search,Premium,299.0,0.028,290.63,6,2,8,0,
+C01033,2024-01-12,USA,Mobile,Organic,Basic,99.0,0.028,96.23,32,0,7,1,2025-04-16
+C01034,2024-11-28,Kenya,Desktop,Organic,Basic,99.0,0.075,91.58,23,0,9,0,
+C01035,2025-09-22,Kenya,Mobile,Organic,Basic,99.0,0.052,93.85,13,0,8,0,
+C01036,2025-06-22,South Africa,Mobile,Paid Social,Standard,179.0,0.093,162.35,12,1,9,0,
+C01037,2025-10-14,South Africa,Mobile,Organic,Basic,99.0,0.056,93.46,26,0,8,0,
+C01038,2024-11-12,South Africa,Mobile,Organic,Basic,99.0,0.095,89.6,9,0,7,1,2025-11-18
+C01039,2024-10-10,South Africa,Mobile,Organic,Basic,99.0,0.071,91.97,10,2,4,1,2025-12-18
+C01040,2025-06-24,Nigeria,Mobile,Organic,Basic,99.0,0.03,96.03,12,2,5,1,2026-04-22
+C01041,2024-04-27,Kenya,Mobile,Referral,Basic,99.0,0.071,91.97,19,1,6,0,
+C01042,2024-07-01,USA,Tablet,Organic,Basic,99.0,0.028,96.23,23,2,5,0,
+C01043,2025-04-02,USA,Desktop,Paid Social,Basic,99.0,0.039,95.14,28,2,3,1,2025-11-12
+C01044,2025-05-24,South Africa,Mobile,Paid Social,Standard,179.0,0.018,175.78,29,3,4,1,2026-02-14
+C01045,2024-04-01,South Africa,Mobile,Organic,Basic,99.0,0.025,96.52,18,0,7,0,
+C01046,2025-01-22,India,Mobile,Referral,Basic,99.0,0.035,95.54,26,1,6,1,2025-06-02
+C01047,2024-10-05,Brazil,Desktop,Paid Social,Standard,179.0,0.099,161.28,16,0,8,0,
+C01048,2025-01-17,India,Desktop,Paid Search,Standard,179.0,0.035,172.74,6,2,6,1,2025-06-24
+C01049,2025-12-31,South Africa,Mobile,Organic,Basic,99.0,0.08,91.08,13,1,5,1,2026-12-25
+C01050,2024-02-28,South Africa,Mobile,Organic,Standard,179.0,0.067,167.01,15,1,6,0,
+C01051,2026-01-28,South Africa,Mobile,Partner,Premium,299.0,0.172,247.57,19,2,7,1,2027-01-04
+C01052,2024-12-08,India,Desktop,Referral,Standard,179.0,0.014,176.49,13,0,7,0,
+C01053,2025-08-11,Nigeria,Desktop,Partner,Premium,299.0,0.192,241.59,20,0,6,0,
+C01054,2024-11-19,Kenya,Mobile,Referral,Standard,179.0,0.018,175.78,26,1,6,1,2024-12-08
+C01055,2024-08-24,Nigeria,Mobile,Organic,Basic,99.0,0.059,93.16,32,0,6,0,
+C01056,2025-08-10,South Africa,Mobile,Referral,Basic,99.0,0.097,89.4,4,0,5,1,2025-09-02
+C01057,2025-06-08,Nigeria,Desktop,Paid Search,Standard,179.0,0.092,162.53,11,1,5,1,2026-03-06
+C01058,2024-04-19,South Africa,Desktop,Referral,Premium,299.0,0.003,298.1,18,1,5,1,2024-06-19
+C01059,2025-06-21,United Kingdom,Mobile,Organic,Standard,179.0,0.027,174.17,27,1,7,1,2025-08-15
+C01060,2025-07-27,Germany,Mobile,Organic,Basic,99.0,0.016,97.42,16,2,7,1,2026-07-19
+C01061,2024-10-22,United Kingdom,Mobile,Paid Social,Standard,179.0,0.166,149.29,15,1,9,1,2025-11-06
+C01062,2025-12-06,South Africa,Mobile,Referral,Basic,99.0,0.024,96.62,24,2,9,0,
+C01063,2025-05-03,India,Desktop,Paid Social,Standard,179.0,0.234,137.11,29,2,10,0,
+C01064,2024-09-11,Germany,Mobile,Organic,Standard,179.0,0.062,167.9,21,0,8,0,
+C01065,2024-01-09,South Africa,Desktop,Organic,Standard,179.0,0.056,168.98,14,3,7,0,
+C01066,2025-05-29,South Africa,Mobile,Partner,Premium,299.0,0.087,272.99,26,1,6,0,
+C01067,2024-06-08,United Kingdom,Mobile,Paid Search,Standard,179.0,0.122,157.16,19,2,9,0,
+C01068,2025-07-30,South Africa,Mobile,Paid Search,Standard,179.0,0.039,172.02,19,1,5,1,2025-11-05
+C01069,2025-02-04,South Africa,Mobile,Paid Search,Standard,179.0,0.244,135.32,17,4,2,1,2025-09-16
+C01070,2024-12-21,South Africa,Mobile,Paid Search,Premium,299.0,0.182,244.58,31,1,10,0,
+C01071,2024-05-04,South Africa,Desktop,Paid Search,Premium,299.0,0.067,278.97,26,0,5,0,
+C01072,2025-06-26,Kenya,Mobile,Paid Search,Basic,99.0,0.093,89.79,26,1,7,1,2026-01-08
+C01073,2024-05-06,Nigeria,Mobile,Referral,Standard,179.0,0.055,169.16,32,1,4,1,2025-04-22
+C01074,2024-11-14,South Africa,Mobile,Referral,Basic,99.0,0.075,91.58,22,1,9,0,
+C01075,2025-09-29,Germany,Mobile,Partner,Premium,299.0,0.231,229.93,20,3,7,1,2026-04-05
+C01076,2025-12-02,South Africa,Desktop,Paid Search,Standard,179.0,0.08,164.68,29,0,8,0,
+C01077,2026-01-23,South Africa,Desktop,Paid Search,Basic,99.0,0.118,87.32,22,0,9,0,
+C01078,2025-12-31,South Africa,Mobile,Paid Social,Basic,99.0,0.148,84.35,39,0,7,0,
+C01079,2025-02-27,India,Desktop,Referral,Basic,99.0,0.1,89.1,20,2,10,0,
+C01080,2024-06-01,Brazil,Desktop,Paid Search,Standard,179.0,0.126,156.45,27,2,7,1,2025-09-15
+C01081,2025-10-01,Kenya,Tablet,Paid Social,Basic,99.0,0.026,96.43,20,0,6,0,
+C01082,2025-09-02,South Africa,Mobile,Paid Social,Basic,99.0,0.042,94.84,17,0,7,0,
+C01083,2026-01-24,South Africa,Mobile,Paid Social,Premium,299.0,0.1,269.1,22,0,7,0,
+C01084,2025-05-11,South Africa,Mobile,Paid Social,Standard,179.0,0.229,138.01,23,1,5,1,2025-12-06
+C01085,2024-04-17,India,Desktop,Organic,Basic,99.0,0.096,89.5,22,1,3,1,2024-10-05
+C01086,2025-01-18,South Africa,Desktop,Paid Search,Basic,99.0,0.062,92.86,27,2,7,1,2025-05-25
+C01087,2024-12-07,Brazil,Mobile,Paid Social,Premium,299.0,0.186,243.39,26,1,5,0,
+C01088,2025-10-04,Nigeria,Mobile,Organic,Standard,179.0,0.095,162.0,17,0,3,0,
+C01089,2024-10-26,Kenya,Desktop,Referral,Standard,179.0,0.088,163.25,18,0,7,0,
+C01090,2024-09-07,India,Desktop,Paid Social,Basic,99.0,0.002,98.8,7,1,6,0,
+C01091,2024-03-01,South Africa,Mobile,Organic,Basic,99.0,0.008,98.21,31,0,6,0,
+C01092,2025-09-28,India,Desktop,Referral,Basic,99.0,0.016,97.42,14,1,0,1,2026-01-26
+C01093,2025-07-29,South Africa,Mobile,Paid Social,Standard,179.0,0.168,148.93,29,1,6,0,
+C01094,2024-02-01,India,Mobile,Paid Social,Basic,99.0,0.069,92.17,20,0,6,1,2024-06-24
+C01095,2024-11-26,Kenya,Mobile,Paid Search,Basic,99.0,0.001,98.9,20,2,5,1,2025-02-14
+C01096,2024-12-31,South Africa,Desktop,Referral,Standard,179.0,0.021,175.24,20,0,7,1,2025-10-26
+C01097,2024-12-23,India,Tablet,Paid Search,Premium,299.0,0.176,246.38,18,1,8,1,2026-03-25
+C01098,2025-12-01,South Africa,Mobile,Paid Search,Standard,179.0,0.098,161.46,13,1,7,1,2027-03-22
+C01099,2024-04-24,South Africa,Mobile,Organic,Standard,179.0,0.063,167.72,35,0,9,0,
+C01100,2024-08-21,India,Mobile,Paid Social,Standard,179.0,0.116,158.24,22,4,7,1,2025-02-11
+C01101,2024-05-17,Kenya,Mobile,Paid Social,Basic,99.0,0.188,80.39,27,2,4,1,2024-08-10
+C01102,2024-07-04,USA,Mobile,Paid Search,Basic,99.0,0.03,96.03,29,4,6,1,2024-12-15
+C01103,2025-11-22,United Kingdom,Mobile,Paid Search,Standard,179.0,0.173,148.03,18,0,9,0,
+C01104,2025-12-17,United Kingdom,Mobile,Referral,Basic,99.0,0.019,97.12,21,1,6,0,
+C01105,2024-02-04,South Africa,Mobile,Paid Social,Standard,179.0,0.093,162.35,21,4,4,1,2024-03-16
+C01106,2025-04-26,South Africa,Mobile,Organic,Premium,299.0,0.007,296.91,15,2,7,1,2026-01-19
+C01107,2024-06-26,Brazil,Desktop,Partner,Premium,299.0,0.224,232.02,23,0,5,0,
+C01108,2024-05-26,South Africa,Mobile,Paid Social,Basic,99.0,0.079,91.18,23,0,5,0,
+C01109,2024-08-10,Kenya,Mobile,Partner,Basic,99.0,0.008,98.21,14,0,6,0,
+C01110,2024-05-28,South Africa,Desktop,Partner,Basic,99.0,0.077,91.38,15,2,8,0,
+C01111,2025-01-08,South Africa,Mobile,Referral,Basic,99.0,0.018,97.22,17,1,8,0,
+C01112,2026-01-28,Nigeria,Mobile,Paid Social,Basic,99.0,0.137,85.44,35,0,9,0,
+C01113,2025-03-22,India,Mobile,Paid Social,Basic,99.0,0.23,76.23,3,0,4,1,2026-04-30
+C01114,2025-07-05,India,Mobile,Organic,Standard,179.0,0.036,172.56,25,1,5,0,
+C01115,2025-01-10,India,Mobile,Paid Search,Standard,179.0,0.076,165.4,19,4,6,1,2025-02-03
+C01116,2024-01-11,South Africa,Mobile,Referral,Premium,299.0,0.014,294.81,19,1,6,0,
+C01117,2024-03-05,Kenya,Mobile,Paid Search,Basic,99.0,0.009,98.11,16,0,5,1,2025-02-09
+C01118,2024-07-23,South Africa,Mobile,Referral,Basic,99.0,0.063,92.76,23,1,3,1,2025-08-17
+C01119,2024-07-04,Germany,Mobile,Organic,Basic,99.0,0.003,98.7,24,0,8,0,
+C01120,2025-10-02,South Africa,Mobile,Paid Search,Basic,99.0,0.235,75.74,19,0,10,0,
+C01121,2025-10-04,Nigeria,Mobile,Paid Search,Basic,99.0,0.217,77.52,27,0,4,1,2026-01-05
+C01122,2025-10-12,South Africa,Mobile,Paid Search,Premium,299.0,0.054,282.85,34,1,9,0,
+C01123,2025-04-30,India,Desktop,Organic,Basic,99.0,0.051,93.95,25,2,6,1,2025-07-21
+C01124,2025-02-27,India,Mobile,Organic,Basic,99.0,0.008,98.21,14,1,3,1,2025-04-08
+C01125,2025-05-09,USA,Mobile,Referral,Standard,179.0,0.082,164.32,25,1,6,0,
+C01126,2024-11-05,South Africa,Mobile,Paid Search,Standard,179.0,0.119,157.7,25,0,4,1,2025-03-29
+C01127,2025-05-25,Brazil,Mobile,Organic,Standard,179.0,0.054,169.33,14,1,7,0,
+C01128,2025-08-04,South Africa,Desktop,Organic,Basic,99.0,0.064,92.66,5,1,8,0,
+C01129,2025-04-12,South Africa,Mobile,Paid Search,Premium,299.0,0.02,293.02,8,1,9,1,2026-01-20
+C01130,2024-02-14,South Africa,Mobile,Organic,Basic,99.0,0.049,94.15,19,2,3,1,2024-10-11
+C01131,2025-07-06,South Africa,Desktop,Paid Social,Basic,99.0,0.053,93.75,20,0,5,1,2026-09-06
+C01132,2024-10-06,Nigeria,Desktop,Referral,Standard,179.0,0.035,172.74,12,2,6,0,
+C01133,2025-07-20,South Africa,Desktop,Organic,Premium,299.0,0.086,273.29,32,1,4,1,2025-09-12
+C01134,2025-02-15,South Africa,Mobile,Paid Social,Basic,99.0,0.027,96.33,19,2,6,1,2025-09-27
+C01135,2025-11-02,United Kingdom,Mobile,Organic,Standard,179.0,0.071,166.29,32,2,7,0,
+C01136,2024-09-14,India,Desktop,Organic,Basic,99.0,0.009,98.11,21,0,3,1,2025-06-27
+C01137,2025-12-10,Germany,Mobile,Referral,Basic,99.0,0.099,89.2,9,2,6,1,2026-12-30
+C01138,2025-10-05,Nigeria,Mobile,Paid Search,Basic,99.0,0.142,84.94,22,1,5,0,
+C01139,2024-09-09,South Africa,Desktop,Referral,Standard,179.0,0.044,171.12,26,0,7,0,
+C01140,2025-01-02,India,Mobile,Organic,Basic,99.0,0.052,93.85,14,2,8,1,2025-06-25
+C01141,2025-02-08,South Africa,Mobile,Organic,Standard,179.0,0.06,168.26,9,0,8,0,
+C01142,2025-08-08,South Africa,Mobile,Paid Search,Basic,99.0,0.128,86.33,19,1,8,0,
+C01143,2025-06-09,South Africa,Mobile,Paid Search,Premium,299.0,0.157,252.06,16,0,5,1,2026-03-01
+C01144,2025-10-11,United Kingdom,Mobile,Partner,Premium,299.0,0.035,288.53,33,1,7,0,
+C01145,2024-10-08,South Africa,Desktop,Organic,Basic,99.0,0.053,93.75,15,1,8,0,
+C01146,2025-01-19,United Kingdom,Mobile,Referral,Basic,99.0,0.015,97.52,32,0,8,0,
+C01147,2024-11-24,South Africa,Mobile,Referral,Basic,99.0,0.092,89.89,1,1,7,0,
+C01148,2025-11-24,Kenya,Mobile,Paid Search,Premium,299.0,0.221,232.92,25,3,7,0,
+C01149,2024-08-20,Kenya,Mobile,Organic,Basic,99.0,0.063,92.76,29,0,5,0,
+C01150,2025-03-23,South Africa,Mobile,Paid Search,Standard,179.0,0.05,170.05,14,1,6,0,
+C01151,2024-04-01,South Africa,Desktop,Organic,Basic,99.0,0.015,97.52,17,2,8,0,
+C01152,2025-10-09,United Kingdom,Mobile,Referral,Standard,179.0,0.002,178.64,18,0,9,0,
+C01153,2024-10-19,Nigeria,Mobile,Paid Search,Standard,179.0,0.169,148.75,16,1,7,0,
+C01154,2024-09-16,South Africa,Tablet,Partner,Standard,179.0,0.029,173.81,23,0,10,0,
+C01155,2025-03-20,United Kingdom,Mobile,Paid Social,Premium,299.0,0.224,232.02,14,2,7,1,2026-04-16
+C01156,2025-01-15,South Africa,Desktop,Paid Search,Basic,99.0,0.04,95.04,17,0,5,1,2026-05-30
+C01157,2025-10-08,South Africa,Mobile,Paid Social,Premium,299.0,0.043,286.14,28,3,4,0,
+C01158,2025-02-08,South Africa,Mobile,Paid Search,Basic,99.0,0.225,76.73,16,4,8,1,2026-03-11
+C01159,2025-01-28,Kenya,Desktop,Referral,Standard,179.0,0.006,177.93,13,0,9,0,
+C01160,2024-03-20,South Africa,Mobile,Organic,Premium,299.0,0.063,280.16,32,1,10,0,
+C01161,2024-01-17,Germany,Mobile,Partner,Standard,179.0,0.138,154.3,27,0,10,0,
+C01162,2024-10-30,South Africa,Mobile,Referral,Standard,179.0,0.056,168.98,13,1,5,0,
+C01163,2026-01-30,India,Desktop,Referral,Basic,99.0,0.025,96.52,8,2,5,0,
+C01164,2025-11-30,South Africa,Mobile,Paid Search,Basic,99.0,0.189,80.29,10,0,1,1,2025-12-29
+C01165,2025-04-24,United Kingdom,Mobile,Referral,Basic,99.0,0.008,98.21,22,1,9,0,
+C01166,2025-04-25,India,Desktop,Organic,Standard,179.0,0.063,167.72,23,4,6,1,2025-06-02
+C01167,2024-10-25,South Africa,Desktop,Referral,Standard,179.0,0.012,176.85,27,0,7,0,
+C01168,2024-05-15,South Africa,Mobile,Organic,Basic,99.0,0.065,92.57,15,1,5,0,
+C01169,2024-01-07,Nigeria,Mobile,Organic,Basic,99.0,0.042,94.84,11,1,7,0,
+C01170,2024-09-15,Brazil,Mobile,Paid Search,Basic,99.0,0.101,89.0,25,0,8,0,
+C01171,2024-08-29,Brazil,Mobile,Organic,Basic,99.0,0.005,98.5,14,3,7,1,2024-11-14
+C01172,2024-05-26,South Africa,Mobile,Paid Search,Basic,99.0,0.144,84.74,19,1,6,1,2025-10-21
+C01173,2024-07-16,India,Mobile,Referral,Premium,299.0,0.014,294.81,12,2,7,1,2025-06-23
+C01174,2024-01-19,South Africa,Mobile,Organic,Standard,179.0,0.068,166.83,16,0,7,0,
+C01175,2025-04-08,South Africa,Mobile,Paid Social,Basic,99.0,0.102,88.9,26,0,9,0,
+C01176,2025-12-07,United Kingdom,Desktop,Organic,Standard,179.0,0.007,177.75,15,1,7,1,2027-03-29
+C01177,2025-06-10,Kenya,Mobile,Referral,Premium,299.0,0.071,277.77,31,2,4,1,2026-01-04
+C01178,2024-12-07,Nigeria,Tablet,Referral,Basic,99.0,0.006,98.41,0,2,8,1,2025-03-18
+C01179,2024-11-16,India,Desktop,Paid Search,Basic,99.0,0.027,96.33,14,1,9,0,
+C01180,2024-08-22,South Africa,Mobile,Paid Social,Basic,99.0,0.078,91.28,17,2,7,1,2025-12-30
+C01181,2025-04-01,United Kingdom,Tablet,Referral,Basic,99.0,0.081,90.98,32,1,6,1,2026-08-21
+C01182,2025-03-07,South Africa,Desktop,Referral,Standard,179.0,0.085,163.78,12,0,10,0,
+C01183,2024-01-06,South Africa,Mobile,Paid Search,Premium,299.0,0.243,226.34,29,0,3,1,2025-04-04
+C01184,2024-11-12,South Africa,Desktop,Paid Search,Basic,99.0,0.146,84.55,26,4,7,1,2025-07-10
+C01185,2024-07-30,Brazil,Mobile,Referral,Standard,179.0,0.077,165.22,15,1,5,1,2024-11-12
+C01186,2024-05-09,Kenya,Desktop,Organic,Basic,99.0,0.014,97.61,15,0,9,0,
+C01187,2025-06-19,South Africa,Mobile,Referral,Standard,179.0,0.072,166.11,22,2,7,0,
+C01188,2025-02-04,United Kingdom,Mobile,Organic,Standard,179.0,0.01,177.21,9,5,3,1,2025-10-11
+C01189,2025-04-27,Brazil,Mobile,Referral,Basic,99.0,0.091,89.99,14,1,6,0,
+C01190,2025-06-27,USA,Tablet,Organic,Basic,99.0,0.064,92.66,28,1,8,1,2026-11-01
+C01191,2026-01-18,Nigeria,Mobile,Organic,Standard,179.0,0.049,170.23,25,0,7,0,
+C01192,2025-09-03,South Africa,Mobile,Partner,Premium,299.0,0.135,258.64,23,0,6,0,
+C01193,2025-04-17,Nigeria,Mobile,Referral,Basic,99.0,0.018,97.22,19,0,5,1,2026-05-05
+C01194,2025-10-31,India,Mobile,Referral,Basic,99.0,0.035,95.54,23,0,8,0,
+C01195,2024-12-29,India,Desktop,Partner,Basic,99.0,0.246,74.65,24,2,10,0,
+C01196,2026-01-20,India,Desktop,Paid Search,Standard,179.0,0.199,143.38,17,0,3,0,
+C01197,2025-08-03,Kenya,Mobile,Organic,Standard,179.0,0.053,169.51,33,1,10,0,
+C01198,2025-05-10,South Africa,Mobile,Organic,Standard,179.0,0.02,175.42,32,1,6,1,2025-11-29
+C01199,2025-11-19,Nigeria,Mobile,Paid Search,Standard,179.0,0.147,152.69,26,2,7,1,2027-01-25
+C01200,2025-01-27,South Africa,Mobile,Organic,Premium,299.0,0.039,287.34,17,0,6,0,
